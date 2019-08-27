@@ -1,0 +1,11 @@
+data/obj/227.png
+data/obj/228.png
+data/obj/229.png
+data/obj/230.png
+data/obj/231.png
+data/obj/232.png
+data/obj/233.png
+data/obj/234.png
+data/obj/235.png
+data/obj/236.png
+data/obj/237.png

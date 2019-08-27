@@ -1,0 +1,5238 @@
+ Try to load cfg: cfg/yolo-voc.2.0.cfg, weights: ./backup/yolo-voc_final.weights, clear = 0 
+
+ reorg_old 
+data/obj/1.png
+data/obj/1.png
+1
+{'box': ((587, 271), (700, 321)), 'label': b'number_plate', 'confidence': 0.8109698295593262}
+
+data/obj/10.png
+data/obj/10.png
+1
+{'box': ((694, 350), (967, 580)), 'label': b'number_plate', 'confidence': 0.8931399583816528}
+
+data/obj/100.png
+data/obj/100.png
+1
+{'box': ((105, 112), (257, 196)), 'label': b'number_plate', 'confidence': 0.9029948115348816}
+
+data/obj/101.png
+data/obj/101.png
+1
+{'box': ((27, 51), (227, 164)), 'label': b'number_plate', 'confidence': 0.9465288519859314}
+
+data/obj/102.png
+data/obj/102.png
+1
+{'box': ((15, 59), (234, 152)), 'label': b'number_plate', 'confidence': 0.9563860893249512}
+
+data/obj/103.png
+data/obj/103.png
+1
+{'box': ((122, 72), (367, 203)), 'label': b'number_plate', 'confidence': 0.9582653641700745}
+
+data/obj/104.png
+data/obj/104.png
+1
+{'box': ((117, 175), (2479, 737)), 'label': b'number_plate', 'confidence': 0.9205394983291626}
+
+data/obj/105.png
+data/obj/105.png
+1
+{'box': ((316, 183), (457, 220)), 'label': b'number_plate', 'confidence': 0.8654817938804626}
+
+data/obj/106.png
+data/obj/106.png
+1
+{'box': ((-26, 99), (759, 406)), 'label': b'number_plate', 'confidence': 0.9424229860305786}
+
+data/obj/107.png
+data/obj/107.png
+1
+{'box': ((228, 183), (323, 247)), 'label': b'number_plate', 'confidence': 0.8554218411445618}
+
+data/obj/108.png
+data/obj/108.png
+1
+{'box': ((20, 33), (335, 192)), 'label': b'number_plate', 'confidence': 0.9472103714942932}
+
+data/obj/109.png
+data/obj/109.png
+1
+{'box': ((38, 39), (576, 340)), 'label': b'number_plate', 'confidence': 0.9602369666099548}
+
+data/obj/11.png
+data/obj/11.png
+1
+{'box': ((199, 137), (419, 221)), 'label': b'number_plate', 'confidence': 0.9087432622909546}
+
+data/obj/110.png
+data/obj/110.png
+1
+{'box': ((19, 85), (435, 188)), 'label': b'number_plate', 'confidence': 0.8924483060836792}
+
+data/obj/111.png
+data/obj/111.png
+1
+{'box': ((-9, 170), (444, 396)), 'label': b'number_plate', 'confidence': 0.9058511853218079}
+
+data/obj/112.png
+data/obj/112.png
+1
+{'box': ((-8, 182), (795, 318)), 'label': b'number_plate', 'confidence': 0.9125288724899292}
+
+data/obj/113.png
+data/obj/113.png
+1
+{'box': ((50, 74), (470, 337)), 'label': b'number_plate', 'confidence': 0.9395358562469482}
+
+data/obj/114.png
+data/obj/114.png
+1
+{'box': ((-11, 118), (515, 297)), 'label': b'number_plate', 'confidence': 0.9025343656539917}
+
+data/obj/115.png
+data/obj/115.png
+1
+{'box': ((189, 345), (385, 422)), 'label': b'number_plate', 'confidence': 0.8961893320083618}
+
+data/obj/116.png
+data/obj/116.png
+1
+{'box': ((34, 70), (626, 194)), 'label': b'number_plate', 'confidence': 0.8978172540664673}
+
+data/obj/117.png
+data/obj/117.png
+1
+{'box': ((110, 121), (543, 337)), 'label': b'number_plate', 'confidence': 0.9227166175842285}
+
+data/obj/118.png
+data/obj/118.png
+1
+{'box': ((157, 114), (434, 250)), 'label': b'number_plate', 'confidence': 0.9085198044776917}
+
+data/obj/119.png
+data/obj/119.png
+1
+{'box': ((122, 131), (331, 243)), 'label': b'number_plate', 'confidence': 0.9206852912902832}
+
+data/obj/12.png
+data/obj/12.png
+1
+{'box': ((354, 381), (501, 431)), 'label': b'number_plate', 'confidence': 0.8441060781478882}
+
+data/obj/120.png
+data/obj/120.png
+1
+{'box': ((-36, 60), (503, 168)), 'label': b'number_plate', 'confidence': 0.8837940692901611}
+
+data/obj/121.png
+data/obj/121.png
+1
+{'box': ((130, 149), (373, 223)), 'label': b'number_plate', 'confidence': 0.9110329747200012}
+
+data/obj/122.png
+data/obj/122.png
+1
+{'box': ((-22, 36), (470, 129)), 'label': b'number_plate', 'confidence': 0.9145875573158264}
+
+data/obj/123.png
+data/obj/123.png
+1
+{'box': ((-16, 34), (239, 128)), 'label': b'number_plate', 'confidence': 0.9246991872787476}
+
+data/obj/124.png
+data/obj/124.png
+1
+{'box': ((264, 325), (500, 409)), 'label': b'number_plate', 'confidence': 0.9059469103813171}
+
+data/obj/125.png
+data/obj/125.png
+1
+{'box': ((133, 113), (319, 201)), 'label': b'number_plate', 'confidence': 0.9282801747322083}
+
+data/obj/126.png
+data/obj/126.png
+1
+{'box': ((168, 96), (348, 166)), 'label': b'number_plate', 'confidence': 0.8980962038040161}
+
+data/obj/127.png
+data/obj/127.png
+1
+{'box': ((434, 248), (640, 355)), 'label': b'number_plate', 'confidence': 0.9032557010650635}
+
+data/obj/128.png
+data/obj/128.png
+1
+{'box': ((206, 49), (572, 215)), 'label': b'number_plate', 'confidence': 0.9328957200050354}
+
+data/obj/129.png
+data/obj/129.png
+1
+{'box': ((158, 92), (298, 157)), 'label': b'number_plate', 'confidence': 0.9124037027359009}
+
+data/obj/13.png
+data/obj/13.png
+1
+{'box': ((220, 184), (433, 240)), 'label': b'number_plate', 'confidence': 0.888751745223999}
+
+data/obj/130.png
+data/obj/130.png
+1
+{'box': ((135, 134), (376, 211)), 'label': b'number_plate', 'confidence': 0.8998456597328186}
+
+data/obj/131.png
+data/obj/131.png
+1
+{'box': ((24, 12), (478, 113)), 'label': b'number_plate', 'confidence': 0.9434232115745544}
+
+data/obj/132.png
+data/obj/132.png
+1
+{'box': ((225, 178), (377, 231)), 'label': b'number_plate', 'confidence': 0.9006586074829102}
+
+data/obj/133.png
+data/obj/133.png
+1
+{'box': ((206, 199), (303, 256)), 'label': b'number_plate', 'confidence': 0.85335373878479}
+
+data/obj/134.png
+data/obj/134.png
+1
+{'box': ((199, 269), (357, 381)), 'label': b'number_plate', 'confidence': 0.8739895820617676}
+
+data/obj/135.png
+data/obj/135.png
+1
+{'box': ((95, 153), (268, 214)), 'label': b'number_plate', 'confidence': 0.8877900838851929}
+
+data/obj/136.png
+data/obj/136.png
+1
+{'box': ((130, 281), (307, 323)), 'label': b'number_plate', 'confidence': 0.8994053602218628}
+
+data/obj/137.png
+data/obj/137.png
+1
+{'box': ((158, 197), (324, 280)), 'label': b'number_plate', 'confidence': 0.9077073931694031}
+
+data/obj/138.png
+data/obj/138.png
+1
+{'box': ((180, 263), (389, 334)), 'label': b'number_plate', 'confidence': 0.8999930024147034}
+
+data/obj/139.png
+data/obj/139.png
+1
+{'box': ((127, 287), (306, 367)), 'label': b'number_plate', 'confidence': 0.8987787365913391}
+
+data/obj/14.png
+data/obj/14.png
+1
+{'box': ((101, 215), (244, 343)), 'label': b'number_plate', 'confidence': 0.9041457176208496}
+
+data/obj/140.png
+data/obj/140.png
+1
+{'box': ((25, 206), (150, 254)), 'label': b'number_plate', 'confidence': 0.9044581651687622}
+
+data/obj/141.png
+data/obj/141.png
+1
+{'box': ((220, 152), (314, 189)), 'label': b'number_plate', 'confidence': 0.9043946862220764}
+
+data/obj/142.png
+data/obj/142.png
+1
+{'box': ((153, 133), (392, 194)), 'label': b'number_plate', 'confidence': 0.8896227478981018}
+
+data/obj/143.png
+data/obj/143.png
+1
+{'box': ((641, 341), (741, 380)), 'label': b'number_plate', 'confidence': 0.780292272567749}
+
+data/obj/144.png
+data/obj/144.png
+1
+{'box': ((180, 200), (352, 278)), 'label': b'number_plate', 'confidence': 0.9030987620353699}
+
+data/obj/145.png
+data/obj/145.png
+1
+{'box': ((104, 183), (449, 282)), 'label': b'number_plate', 'confidence': 0.8835593461990356}
+
+data/obj/146.png
+data/obj/146.png
+1
+{'box': ((307, 274), (714, 388)), 'label': b'number_plate', 'confidence': 0.8811931014060974}
+
+data/obj/147.png
+data/obj/147.png
+1
+{'box': ((190, 122), (358, 184)), 'label': b'number_plate', 'confidence': 0.8887307643890381}
+
+data/obj/148.png
+data/obj/148.png
+1
+{'box': ((164, 228), (313, 273)), 'label': b'number_plate', 'confidence': 0.8833054900169373}
+
+data/obj/149.png
+data/obj/149.png
+1
+{'box': ((118, 259), (408, 330)), 'label': b'number_plate', 'confidence': 0.9085191488265991}
+
+data/obj/15.png
+data/obj/15.png
+1
+{'box': ((148, 97), (359, 185)), 'label': b'number_plate', 'confidence': 0.9113322496414185}
+
+data/obj/150.png
+data/obj/150.png
+1
+{'box': ((177, 260), (350, 325)), 'label': b'number_plate', 'confidence': 0.8978309035301208}
+
+data/obj/151.png
+data/obj/151.png
+1
+{'box': ((141, 240), (342, 315)), 'label': b'number_plate', 'confidence': 0.8947872519493103}
+
+data/obj/152.png
+data/obj/152.png
+1
+{'box': ((95, 95), (194, 144)), 'label': b'number_plate', 'confidence': 0.9289012551307678}
+
+data/obj/153.png
+data/obj/153.png
+1
+{'box': ((118, 261), (233, 299)), 'label': b'number_plate', 'confidence': 0.8808788657188416}
+
+data/obj/154.png
+data/obj/154.png
+1
+{'box': ((98, 137), (177, 170)), 'label': b'number_plate', 'confidence': 0.8829153180122375}
+
+data/obj/155.png
+data/obj/155.png
+1
+{'box': ((189, 213), (397, 299)), 'label': b'number_plate', 'confidence': 0.8983697891235352}
+
+data/obj/156.png
+data/obj/156.png
+1
+{'box': ((342, 287), (877, 393)), 'label': b'number_plate', 'confidence': 0.8723954558372498}
+
+data/obj/157.png
+data/obj/157.png
+1
+{'box': ((356, 194), (587, 285)), 'label': b'number_plate', 'confidence': 0.8865125179290771}
+
+data/obj/158.png
+data/obj/158.png
+1
+{'box': ((60, 125), (292, 223)), 'label': b'number_plate', 'confidence': 0.9262657761573792}
+
+data/obj/159.png
+data/obj/159.png
+1
+{'box': ((88, 42), (355, 471)), 'label': b'number_plate', 'confidence': 0.9381672143936157}
+
+data/obj/16.png
+data/obj/16.png
+1
+{'box': ((266, 338), (524, 433)), 'label': b'number_plate', 'confidence': 0.896926999092102}
+
+data/obj/160.png
+data/obj/160.png
+1
+{'box': ((376, 228), (775, 498)), 'label': b'number_plate', 'confidence': 0.907444953918457}
+
+data/obj/161.png
+data/obj/161.png
+1
+{'box': ((1029, 619), (1269, 672)), 'label': b'number_plate', 'confidence': 0.7763003706932068}
+
+data/obj/162.png
+data/obj/162.png
+1
+{'box': ((259, 220), (321, 264)), 'label': b'number_plate', 'confidence': 0.7143586277961731}
+
+data/obj/163.png
+data/obj/163.png
+1
+{'box': ((89, 17), (237, 60)), 'label': b'number_plate', 'confidence': 0.9286071062088013}
+
+data/obj/164.png
+data/obj/164.png
+1
+{'box': ((334, 226), (510, 317)), 'label': b'number_plate', 'confidence': 0.9027842283248901}
+
+data/obj/165.png
+data/obj/165.png
+1
+{'box': ((243, 368), (430, 432)), 'label': b'number_plate', 'confidence': 0.9103419780731201}
+
+data/obj/166.png
+data/obj/166.png
+1
+{'box': ((110, 178), (313, 241)), 'label': b'number_plate', 'confidence': 0.8684369921684265}
+
+data/obj/167.png
+data/obj/167.png
+1
+{'box': ((8, 38), (319, 152)), 'label': b'number_plate', 'confidence': 0.9628986120223999}
+
+data/obj/168.png
+data/obj/168.png
+1
+{'box': ((291, 305), (584, 404)), 'label': b'number_plate', 'confidence': 0.9163858890533447}
+
+data/obj/169.png
+data/obj/169.png
+1
+{'box': ((225, 139), (430, 198)), 'label': b'number_plate', 'confidence': 0.9033486843109131}
+
+data/obj/17.png
+data/obj/17.png
+1
+{'box': ((305, 252), (489, 320)), 'label': b'number_plate', 'confidence': 0.9028312563896179}
+
+data/obj/170.png
+data/obj/170.png
+1
+{'box': ((3, 55), (252, 212)), 'label': b'number_plate', 'confidence': 0.9108991026878357}
+
+data/obj/171.png
+data/obj/171.png
+1
+{'box': ((500, 433), (1805, 1102)), 'label': b'number_plate', 'confidence': 0.9073445200920105}
+
+data/obj/172.png
+data/obj/172.png
+1
+{'box': ((405, 673), (817, 786)), 'label': b'number_plate', 'confidence': 0.8697465658187866}
+
+data/obj/173.png
+data/obj/173.png
+1
+{'box': ((39, 21), (474, 125)), 'label': b'number_plate', 'confidence': 0.9552124738693237}
+
+data/obj/174.png
+data/obj/174.png
+1
+{'box': ((227, 122), (425, 183)), 'label': b'number_plate', 'confidence': 0.885309636592865}
+
+data/obj/175.png
+data/obj/175.png
+1
+{'box': ((213, 78), (454, 164)), 'label': b'number_plate', 'confidence': 0.9426828026771545}
+
+data/obj/176.png
+data/obj/176.png
+1
+{'box': ((125, 220), (485, 431)), 'label': b'number_plate', 'confidence': 0.9392520785331726}
+
+data/obj/177.png
+data/obj/177.png
+1
+{'box': ((132, 178), (268, 229)), 'label': b'number_plate', 'confidence': 0.8881030082702637}
+
+data/obj/178.png
+data/obj/178.png
+1
+{'box': ((38, 120), (105, 164)), 'label': b'number_plate', 'confidence': 0.8799355626106262}
+
+data/obj/179.png
+data/obj/179.png
+1
+{'box': ((243, 261), (308, 322)), 'label': b'number_plate', 'confidence': 0.8423455953598022}
+
+data/obj/18.png
+data/obj/18.png
+1
+{'box': ((54, 213), (191, 282)), 'label': b'number_plate', 'confidence': 0.9034155011177063}
+
+data/obj/180.png
+data/obj/180.png
+1
+{'box': ((397, 452), (586, 508)), 'label': b'number_plate', 'confidence': 0.8743576407432556}
+
+data/obj/181.png
+data/obj/181.png
+1
+{'box': ((217, 127), (488, 193)), 'label': b'number_plate', 'confidence': 0.8995214700698853}
+
+data/obj/182.png
+data/obj/182.png
+1
+{'box': ((293, 249), (501, 321)), 'label': b'number_plate', 'confidence': 0.8801128268241882}
+
+data/obj/183.png
+data/obj/183.png
+1
+{'box': ((184, 203), (249, 234)), 'label': b'number_plate', 'confidence': 0.8750254511833191}
+
+data/obj/184.png
+data/obj/184.png
+1
+{'box': ((169, 259), (358, 300)), 'label': b'number_plate', 'confidence': 0.9040796756744385}
+
+data/obj/185.png
+data/obj/185.png
+1
+{'box': ((100, 145), (263, 211)), 'label': b'number_plate', 'confidence': 0.9174005389213562}
+
+data/obj/186.png
+data/obj/186.png
+1
+{'box': ((206, 270), (354, 327)), 'label': b'number_plate', 'confidence': 0.9120286703109741}
+
+data/obj/187.png
+data/obj/187.png
+1
+{'box': ((200, 184), (406, 236)), 'label': b'number_plate', 'confidence': 0.8893804550170898}
+
+data/obj/188.png
+data/obj/188.png
+1
+{'box': ((241, 177), (352, 224)), 'label': b'number_plate', 'confidence': 0.8774769306182861}
+
+data/obj/189.png
+data/obj/189.png
+1
+{'box': ((794, 240), (1041, 305)), 'label': b'number_plate', 'confidence': 0.8893613815307617}
+
+data/obj/19.png
+data/obj/19.png
+1
+{'box': ((340, 193), (431, 235)), 'label': b'number_plate', 'confidence': 0.8733711242675781}
+
+data/obj/190.png
+data/obj/190.png
+1
+{'box': ((154, 192), (589, 371)), 'label': b'number_plate', 'confidence': 0.9076239466667175}
+
+data/obj/191.png
+data/obj/191.png
+1
+{'box': ((119, 87), (225, 119)), 'label': b'number_plate', 'confidence': 0.8612393736839294}
+
+data/obj/192.png
+data/obj/192.png
+1
+{'box': ((332, 928), (625, 1069)), 'label': b'number_plate', 'confidence': 0.880565345287323}
+
+data/obj/193.png
+data/obj/193.png
+1
+{'box': ((537, 387), (770, 470)), 'label': b'number_plate', 'confidence': 0.880999743938446}
+
+data/obj/194.png
+data/obj/194.png
+1
+{'box': ((14, 35), (239, 178)), 'label': b'number_plate', 'confidence': 0.9542537331581116}
+
+data/obj/195.png
+data/obj/195.png
+1
+{'box': ((91, 100), (133, 127)), 'label': b'number_plate', 'confidence': 0.8538306355476379}
+
+data/obj/196.png
+data/obj/196.png
+1
+{'box': ((73, 122), (199, 188)), 'label': b'number_plate', 'confidence': 0.891871452331543}
+
+data/obj/197.png
+data/obj/197.png
+1
+{'box': ((158, 266), (343, 336)), 'label': b'number_plate', 'confidence': 0.9117244482040405}
+
+data/obj/198.png
+data/obj/198.png
+1
+{'box': ((113, 124), (233, 194)), 'label': b'number_plate', 'confidence': 0.9017419815063477}
+
+data/obj/199.png
+data/obj/199.png
+1
+{'box': ((198, 198), (275, 232)), 'label': b'number_plate', 'confidence': 0.8502392172813416}
+
+data/obj/2.png
+data/obj/2.png
+1
+{'box': ((85, 381), (287, 444)), 'label': b'number_plate', 'confidence': 0.8935068249702454}
+
+data/obj/20.png
+data/obj/20.png
+1
+{'box': ((245, 189), (757, 392)), 'label': b'number_plate', 'confidence': 0.9257537126541138}
+
+data/obj/200.png
+data/obj/200.png
+1
+{'box': ((565, 203), (672, 250)), 'label': b'number_plate', 'confidence': 0.8373223543167114}
+
+data/obj/201.png
+data/obj/201.png
+1
+{'box': ((17, 244), (101, 319)), 'label': b'number_plate', 'confidence': 0.8812729120254517}
+
+data/obj/202.png
+data/obj/202.png
+1
+{'box': ((249, 184), (371, 238)), 'label': b'number_plate', 'confidence': 0.8739056587219238}
+
+data/obj/203.png
+data/obj/203.png
+1
+{'box': ((86, 206), (414, 312)), 'label': b'number_plate', 'confidence': 0.9277967214584351}
+
+data/obj/204.png
+data/obj/204.png
+1
+{'box': ((238, 225), (382, 310)), 'label': b'number_plate', 'confidence': 0.8644405603408813}
+
+data/obj/205.png
+data/obj/205.png
+1
+{'box': ((155, 209), (286, 265)), 'label': b'number_plate', 'confidence': 0.888911783695221}
+
+data/obj/206.png
+data/obj/206.png
+1
+{'box': ((95, 153), (268, 214)), 'label': b'number_plate', 'confidence': 0.8877900838851929}
+
+data/obj/207.png
+data/obj/207.png
+1
+{'box': ((364, 168), (436, 199)), 'label': b'number_plate', 'confidence': 0.7992382645606995}
+
+data/obj/208.png
+data/obj/208.png
+1
+{'box': ((136, 65), (449, 160)), 'label': b'number_plate', 'confidence': 0.8984017372131348}
+
+data/obj/209.png
+data/obj/209.png
+1
+{'box': ((155, 196), (373, 261)), 'label': b'number_plate', 'confidence': 0.9017919301986694}
+
+data/obj/21.png
+data/obj/21.png
+1
+{'box': ((145, 173), (350, 278)), 'label': b'number_plate', 'confidence': 0.9238435626029968}
+
+data/obj/210.png
+data/obj/210.png
+1
+{'box': ((63, 220), (257, 288)), 'label': b'number_plate', 'confidence': 0.9040467143058777}
+
+data/obj/211.png
+data/obj/211.png
+1
+{'box': ((129, 102), (405, 229)), 'label': b'number_plate', 'confidence': 0.9250171184539795}
+
+data/obj/212.png
+data/obj/212.png
+1
+{'box': ((159, 86), (372, 162)), 'label': b'number_plate', 'confidence': 0.9103899598121643}
+
+data/obj/213.png
+data/obj/213.png
+1
+{'box': ((152, 114), (346, 199)), 'label': b'number_plate', 'confidence': 0.849643886089325}
+
+data/obj/214.png
+data/obj/214.png
+1
+{'box': ((129, 111), (401, 208)), 'label': b'number_plate', 'confidence': 0.9367263913154602}
+
+data/obj/215.png
+data/obj/215.png
+1
+{'box': ((152, 241), (340, 324)), 'label': b'number_plate', 'confidence': 0.8854612112045288}
+
+data/obj/216.png
+data/obj/216.png
+1
+{'box': ((187, 300), (380, 373)), 'label': b'number_plate', 'confidence': 0.8754355907440186}
+
+data/obj/217.png
+data/obj/217.png
+1
+{'box': ((237, 100), (388, 165)), 'label': b'number_plate', 'confidence': 0.894947350025177}
+
+data/obj/218.png
+data/obj/218.png
+1
+{'box': ((96, 110), (403, 214)), 'label': b'number_plate', 'confidence': 0.9165987372398376}
+
+data/obj/219.png
+data/obj/219.png
+1
+{'box': ((188, 117), (374, 186)), 'label': b'number_plate', 'confidence': 0.9103752374649048}
+
+data/obj/22.png
+data/obj/22.png
+1
+{'box': ((280, 4), (506, 69)), 'label': b'number_plate', 'confidence': 0.7776240110397339}
+
+data/obj/220.png
+data/obj/220.png
+1
+{'box': ((139, 152), (322, 215)), 'label': b'number_plate', 'confidence': 0.8844684362411499}
+
+data/obj/221.png
+data/obj/221.png
+1
+{'box': ((56, 186), (190, 241)), 'label': b'number_plate', 'confidence': 0.8949438333511353}
+
+data/obj/222.png
+data/obj/222.png
+1
+{'box': ((95, 325), (295, 412)), 'label': b'number_plate', 'confidence': 0.9021791815757751}
+
+data/obj/223.png
+data/obj/223.png
+1
+{'box': ((140, 223), (352, 275)), 'label': b'number_plate', 'confidence': 0.9016387462615967}
+
+data/obj/224.png
+data/obj/224.png
+1
+{'box': ((133, 195), (346, 276)), 'label': b'number_plate', 'confidence': 0.9056217074394226}
+
+data/obj/225.png
+data/obj/225.png
+1
+{'box': ((23, 36), (194, 107)), 'label': b'number_plate', 'confidence': 0.9251832365989685}
+
+data/obj/226.png
+data/obj/226.png
+1
+{'box': ((141, 205), (407, 273)), 'label': b'number_plate', 'confidence': 0.9102930426597595}
+
+data/obj/227.png
+data/obj/227.png
+1
+{'box': ((173, 92), (377, 160)), 'label': b'number_plate', 'confidence': 0.9033136367797852}
+
+data/obj/228.png
+data/obj/228.png
+1
+{'box': ((109, 151), (210, 182)), 'label': b'number_plate', 'confidence': 0.8762404918670654}
+
+data/obj/229.png
+data/obj/229.png
+1
+{'box': ((117, 105), (219, 155)), 'label': b'number_plate', 'confidence': 0.9077610969543457}
+
+data/obj/23.png
+data/obj/23.png
+1
+{'box': ((253, 501), (483, 584)), 'label': b'number_plate', 'confidence': 0.8854260444641113}
+
+data/obj/230.png
+data/obj/230.png
+1
+{'box': ((99, 140), (270, 193)), 'label': b'number_plate', 'confidence': 0.9159579277038574}
+
+data/obj/231.png
+data/obj/231.png
+1
+{'box': ((132, 156), (332, 212)), 'label': b'number_plate', 'confidence': 0.9106643199920654}
+
+data/obj/232.png
+data/obj/232.png
+1
+{'box': ((22, 118), (147, 170)), 'label': b'number_plate', 'confidence': 0.9119004607200623}
+
+data/obj/233.png
+data/obj/233.png
+1
+{'box': ((175, 227), (356, 289)), 'label': b'number_plate', 'confidence': 0.883876383304596}
+
+data/obj/234.png
+data/obj/234.png
+1
+{'box': ((175, 157), (318, 205)), 'label': b'number_plate', 'confidence': 0.884859025478363}
+
+data/obj/235.png
+data/obj/235.png
+1
+{'box': ((174, 203), (306, 251)), 'label': b'number_plate', 'confidence': 0.9104474186897278}
+
+data/obj/236.png
+data/obj/236.png
+1
+{'box': ((184, 203), (249, 234)), 'label': b'number_plate', 'confidence': 0.8750254511833191}
+
+data/obj/237.png
+data/obj/237.png
+1
+{'box': ((26, 20), (352, 120)), 'label': b'number_plate', 'confidence': 0.9141185283660889}
+
+data/obj/24.png
+data/obj/24.png
+1
+{'box': ((291, 417), (572, 492)), 'label': b'number_plate', 'confidence': 0.8710550665855408}
+
+data/obj/25.png
+data/obj/25.png
+1
+{'box': ((167, 194), (427, 282)), 'label': b'number_plate', 'confidence': 0.9028864502906799}
+
+data/obj/26.png
+data/obj/26.png
+1
+{'box': ((282, 178), (437, 222)), 'label': b'number_plate', 'confidence': 0.8974533081054688}
+
+data/obj/27.png
+data/obj/27.png
+1
+{'box': ((192, 218), (446, 319)), 'label': b'number_plate', 'confidence': 0.9179067611694336}
+
+data/obj/28.png
+data/obj/28.png
+1
+{'box': ((56, 181), (242, 298)), 'label': b'number_plate', 'confidence': 0.8966332077980042}
+
+data/obj/29.png
+data/obj/29.png
+1
+{'box': ((315, 142), (2422, 611)), 'label': b'number_plate', 'confidence': 0.9083967208862305}
+
+data/obj/3.png
+data/obj/3.png
+1
+{'box': ((42, 221), (117, 259)), 'label': b'number_plate', 'confidence': 0.8997032642364502}
+
+data/obj/30.png
+data/obj/30.png
+1
+{'box': ((107, 50), (1543, 333)), 'label': b'number_plate', 'confidence': 0.9275277853012085}
+
+data/obj/31.png
+data/obj/31.png
+1
+{'box': ((238, 173), (1474, 691)), 'label': b'number_plate', 'confidence': 0.9479396343231201}
+
+data/obj/32.png
+data/obj/32.png
+1
+{'box': ((456, 271), (566, 355)), 'label': b'number_plate', 'confidence': 0.8586504459381104}
+
+data/obj/33.png
+data/obj/33.png
+1
+{'box': ((110, 235), (282, 320)), 'label': b'number_plate', 'confidence': 0.9007415771484375}
+
+data/obj/34.png
+data/obj/34.png
+1
+{'box': ((49, 350), (272, 418)), 'label': b'number_plate', 'confidence': 0.9149380922317505}
+
+data/obj/35.png
+data/obj/35.png
+1
+{'box': ((1208, 963), (2531, 1356)), 'label': b'number_plate', 'confidence': 0.8538708686828613}
+
+data/obj/36.png
+data/obj/36.png
+1
+{'box': ((325, 263), (541, 319)), 'label': b'number_plate', 'confidence': 0.8447796702384949}
+
+data/obj/37.png
+data/obj/37.png
+1
+{'box': ((94, 96), (196, 137)), 'label': b'number_plate', 'confidence': 0.9196620583534241}
+
+data/obj/38.png
+data/obj/38.png
+1
+{'box': ((122, 103), (190, 174)), 'label': b'number_plate', 'confidence': 0.8878383636474609}
+
+data/obj/39.png
+data/obj/39.png
+1
+{'box': ((808, 495), (888, 519)), 'label': b'number_plate', 'confidence': 0.6661627292633057}
+
+data/obj/4.png
+data/obj/4.png
+1
+{'box': ((207, 312), (361, 363)), 'label': b'number_plate', 'confidence': 0.8604005575180054}
+
+data/obj/40.png
+data/obj/40.png
+1
+{'box': ((-6, 78), (314, 172)), 'label': b'number_plate', 'confidence': 0.9343574047088623}
+
+data/obj/41.png
+data/obj/41.png
+1
+{'box': ((150, 178), (316, 262)), 'label': b'number_plate', 'confidence': 0.8844072818756104}
+
+data/obj/42.png
+data/obj/42.png
+1
+{'box': ((152, 221), (344, 302)), 'label': b'number_plate', 'confidence': 0.9171918630599976}
+
+data/obj/43.png
+data/obj/43.png
+1
+{'box': ((29, 260), (165, 328)), 'label': b'number_plate', 'confidence': 0.9059925675392151}
+
+data/obj/44.png
+data/obj/44.png
+1
+{'box': ((31, 26), (474, 243)), 'label': b'number_plate', 'confidence': 0.9491243958473206}
+
+data/obj/45.png
+data/obj/45.png
+1
+{'box': ((606, 466), (896, 530)), 'label': b'number_plate', 'confidence': 0.8528847694396973}
+
+data/obj/46.png
+data/obj/46.png
+1
+{'box': ((407, 166), (526, 213)), 'label': b'number_plate', 'confidence': 0.8790106773376465}
+
+data/obj/47.png
+data/obj/47.png
+1
+{'box': ((185, 273), (375, 356)), 'label': b'number_plate', 'confidence': 0.8927010297775269}
+
+data/obj/48.png
+data/obj/48.png
+1
+{'box': ((400, 423), (588, 482)), 'label': b'number_plate', 'confidence': 0.8552928566932678}
+
+data/obj/49.png
+data/obj/49.png
+1
+{'box': ((273, 284), (1145, 531)), 'label': b'number_plate', 'confidence': 0.9225943088531494}
+
+data/obj/5.png
+data/obj/5.png
+1
+{'box': ((143, 223), (949, 545)), 'label': b'number_plate', 'confidence': 0.9350006580352783}
+
+data/obj/50.png
+data/obj/50.png
+1
+{'box': ((112, 195), (211, 241)), 'label': b'number_plate', 'confidence': 0.903739333152771}
+
+data/obj/51.png
+data/obj/51.png
+1
+{'box': ((445, 713), (663, 788)), 'label': b'number_plate', 'confidence': 0.8368831872940063}
+
+data/obj/52.png
+data/obj/52.png
+1
+{'box': ((367, 199), (499, 264)), 'label': b'number_plate', 'confidence': 0.8969594836235046}
+
+data/obj/53.png
+data/obj/53.png
+1
+{'box': ((44, 291), (192, 350)), 'label': b'number_plate', 'confidence': 0.8937718868255615}
+
+data/obj/54.png
+data/obj/54.png
+1
+{'box': ((208, 154), (354, 194)), 'label': b'number_plate', 'confidence': 0.868627667427063}
+
+data/obj/55.png
+data/obj/55.png
+1
+{'box': ((109, 228), (271, 287)), 'label': b'number_plate', 'confidence': 0.9180030822753906}
+
+data/obj/56.png
+data/obj/56.png
+1
+{'box': ((273, 188), (438, 236)), 'label': b'number_plate', 'confidence': 0.875941812992096}
+
+data/obj/57.png
+data/obj/57.png
+1
+{'box': ((395, 402), (514, 441)), 'label': b'number_plate', 'confidence': 0.7726419568061829}
+
+data/obj/58.png
+data/obj/58.png
+1
+{'box': ((155, 186), (284, 231)), 'label': b'number_plate', 'confidence': 0.8363249897956848}
+
+data/obj/59.png
+data/obj/59.png
+1
+{'box': ((103, 252), (302, 368)), 'label': b'number_plate', 'confidence': 0.9279044270515442}
+
+data/obj/6.png
+data/obj/6.png
+1
+{'box': ((111, 275), (258, 338)), 'label': b'number_plate', 'confidence': 0.881544291973114}
+
+data/obj/60.png
+data/obj/60.png
+1
+{'box': ((150, 231), (352, 328)), 'label': b'number_plate', 'confidence': 0.901454746723175}
+
+data/obj/61.png
+data/obj/61.png
+1
+{'box': ((781, 728), (1119, 832)), 'label': b'number_plate', 'confidence': 0.8221392631530762}
+
+data/obj/62.png
+data/obj/62.png
+1
+{'box': ((116, 208), (294, 265)), 'label': b'number_plate', 'confidence': 0.887843132019043}
+
+data/obj/63.png
+data/obj/63.png
+1
+{'box': ((19, 26), (492, 222)), 'label': b'number_plate', 'confidence': 0.9285918474197388}
+
+data/obj/64.png
+data/obj/64.png
+1
+{'box': ((36, 195), (190, 272)), 'label': b'number_plate', 'confidence': 0.9016919136047363}
+
+data/obj/65.png
+data/obj/65.png
+1
+{'box': ((67, 129), (174, 191)), 'label': b'number_plate', 'confidence': 0.8922631144523621}
+
+data/obj/66.png
+data/obj/66.png
+1
+{'box': ((26, 28), (233, 161)), 'label': b'number_plate', 'confidence': 0.9248839616775513}
+
+data/obj/67.png
+data/obj/67.png
+1
+{'box': ((97, 132), (375, 282)), 'label': b'number_plate', 'confidence': 0.9127795696258545}
+
+data/obj/68.png
+data/obj/68.png
+1
+{'box': ((49, 200), (108, 261)), 'label': b'number_plate', 'confidence': 0.8178836703300476}
+
+data/obj/69.png
+data/obj/69.png
+1
+{'box': ((97, 295), (208, 344)), 'label': b'number_plate', 'confidence': 0.8328475952148438}
+
+data/obj/7.png
+data/obj/7.png
+1
+{'box': ((223, 235), (447, 320)), 'label': b'number_plate', 'confidence': 0.9167039394378662}
+
+data/obj/70.png
+data/obj/70.png
+1
+{'box': ((153, 203), (323, 262)), 'label': b'number_plate', 'confidence': 0.9152976870536804}
+
+data/obj/71.png
+data/obj/71.png
+1
+{'box': ((173, 208), (299, 266)), 'label': b'number_plate', 'confidence': 0.9147080183029175}
+
+data/obj/72.png
+data/obj/72.png
+1
+{'box': ((148, 244), (343, 314)), 'label': b'number_plate', 'confidence': 0.8922580480575562}
+
+data/obj/73.png
+data/obj/73.png
+1
+{'box': ((140, 69), (386, 197)), 'label': b'number_plate', 'confidence': 0.9267044067382812}
+
+data/obj/74.png
+data/obj/74.png
+1
+{'box': ((165, 182), (290, 229)), 'label': b'number_plate', 'confidence': 0.8724774718284607}
+
+data/obj/75.png
+data/obj/75.png
+1
+{'box': ((158, 160), (346, 228)), 'label': b'number_plate', 'confidence': 0.9112240076065063}
+
+data/obj/76.png
+data/obj/76.png
+1
+{'box': ((419, 142), (513, 184)), 'label': b'number_plate', 'confidence': 0.8826448917388916}
+
+data/obj/77.png
+data/obj/77.png
+1
+{'box': ((143, 199), (328, 248)), 'label': b'number_plate', 'confidence': 0.8989763855934143}
+
+data/obj/78.png
+data/obj/78.png
+1
+{'box': ((473, 101), (824, 252)), 'label': b'number_plate', 'confidence': 0.8518965840339661}
+
+data/obj/79.png
+data/obj/79.png
+1
+{'box': ((155, 137), (298, 195)), 'label': b'number_plate', 'confidence': 0.9103925824165344}
+
+data/obj/8.png
+data/obj/8.png
+1
+{'box': ((265, 245), (395, 317)), 'label': b'number_plate', 'confidence': 0.9122049808502197}
+
+data/obj/80.png
+data/obj/80.png
+1
+{'box': ((549, 454), (846, 543)), 'label': b'number_plate', 'confidence': 0.9088432788848877}
+
+data/obj/81.png
+data/obj/81.png
+1
+{'box': ((57, 131), (361, 254)), 'label': b'number_plate', 'confidence': 0.8837876915931702}
+
+data/obj/82.png
+data/obj/82.png
+1
+{'box': ((329, 299), (468, 373)), 'label': b'number_plate', 'confidence': 0.9096952676773071}
+
+data/obj/83.png
+data/obj/83.png
+1
+{'box': ((66, 45), (398, 216)), 'label': b'number_plate', 'confidence': 0.796238899230957}
+
+data/obj/84.png
+data/obj/84.png
+1
+{'box': ((205, 130), (342, 179)), 'label': b'number_plate', 'confidence': 0.8989089727401733}
+
+data/obj/85.png
+data/obj/85.png
+1
+{'box': ((101, 205), (259, 278)), 'label': b'number_plate', 'confidence': 0.9128034114837646}
+
+data/obj/86.png
+data/obj/86.png
+1
+{'box': ((152, 229), (360, 320)), 'label': b'number_plate', 'confidence': 0.9103029370307922}
+
+data/obj/87.png
+data/obj/87.png
+1
+{'box': ((199, 179), (363, 262)), 'label': b'number_plate', 'confidence': 0.8983258008956909}
+
+data/obj/88.png
+data/obj/88.png
+1
+{'box': ((806, 652), (1064, 732)), 'label': b'number_plate', 'confidence': 0.8306778073310852}
+
+data/obj/89.png
+data/obj/89.png
+1
+{'box': ((1015, 564), (1440, 750)), 'label': b'number_plate', 'confidence': 0.9147061705589294}
+
+data/obj/9.png
+data/obj/9.png
+1
+{'box': ((652, 502), (880, 576)), 'label': b'number_plate', 'confidence': 0.8664565682411194}
+
+data/obj/90.png
+data/obj/90.png
+1
+{'box': ((837, 802), (1588, 984)), 'label': b'number_plate', 'confidence': 0.923494815826416}
+
+data/obj/91.png
+data/obj/91.png
+1
+{'box': ((315, 103), (386, 146)), 'label': b'number_plate', 'confidence': 0.8473907113075256}
+
+data/obj/92.png
+data/obj/92.png
+1
+{'box': ((607, 286), (787, 352)), 'label': b'number_plate', 'confidence': 0.8807235956192017}
+
+data/obj/93.png
+data/obj/93.png
+1
+{'box': ((158, 352), (299, 423)), 'label': b'number_plate', 'confidence': 0.8865891695022583}
+
+data/obj/94.png
+data/obj/94.png
+1
+{'box': ((58, 144), (168, 208)), 'label': b'number_plate', 'confidence': 0.8982595205307007}
+
+data/obj/95.png
+data/obj/95.png
+1
+{'box': ((294, 214), (446, 261)), 'label': b'number_plate', 'confidence': 0.8846043944358826}
+
+data/obj/96.png
+data/obj/96.png
+1
+{'box': ((318, 410), (666, 533)), 'label': b'number_plate', 'confidence': 0.8877530694007874}
+
+data/obj/97.png
+data/obj/97.png
+1
+{'box': ((318, 190), (598, 272)), 'label': b'number_plate', 'confidence': 0.9112659692764282}
+
+data/obj/98.png
+data/obj/98.png
+1
+{'box': ((123, 110), (222, 175)), 'label': b'number_plate', 'confidence': 0.9109668135643005}
+
+data/obj/99.png
+data/obj/99.png
+1
+{'box': ((19, 65), (223, 150)), 'label': b'number_plate', 'confidence': 0.8947025537490845}
+
+
+ seen 64 
+Loaded - names_list: /home/spandan/humain/darknet/cfg/obj.names, classes = 1 
+ Try to load cfg: cfg/yolo-voc.2.0.cfg, weights: ./backup/yolo-voc_final.weights, clear = 0 
+
+ reorg_old 
+data/obj/1.png
+data/obj/1.png
+1
+{'box': ((587, 271), (700, 321)), 'label': b'number_plate', 'confidence': 0.8109698295593262}
+
+data/obj/10.png
+data/obj/10.png
+1
+{'box': ((694, 350), (967, 580)), 'label': b'number_plate', 'confidence': 0.8931399583816528}
+
+data/obj/100.png
+data/obj/100.png
+1
+{'box': ((105, 112), (257, 196)), 'label': b'number_plate', 'confidence': 0.9029948115348816}
+
+data/obj/101.png
+data/obj/101.png
+1
+{'box': ((27, 51), (227, 164)), 'label': b'number_plate', 'confidence': 0.9465288519859314}
+
+data/obj/102.png
+data/obj/102.png
+1
+{'box': ((15, 59), (234, 152)), 'label': b'number_plate', 'confidence': 0.9563860893249512}
+
+data/obj/103.png
+data/obj/103.png
+1
+{'box': ((122, 72), (367, 203)), 'label': b'number_plate', 'confidence': 0.9582653641700745}
+
+data/obj/104.png
+data/obj/104.png
+1
+{'box': ((117, 175), (2479, 737)), 'label': b'number_plate', 'confidence': 0.9205394983291626}
+
+data/obj/105.png
+data/obj/105.png
+1
+{'box': ((316, 183), (457, 220)), 'label': b'number_plate', 'confidence': 0.8654817938804626}
+
+data/obj/106.png
+data/obj/106.png
+1
+{'box': ((-26, 99), (759, 406)), 'label': b'number_plate', 'confidence': 0.9424229860305786}
+
+data/obj/107.png
+data/obj/107.png
+1
+{'box': ((228, 183), (323, 247)), 'label': b'number_plate', 'confidence': 0.8554218411445618}
+
+data/obj/108.png
+data/obj/108.png
+1
+{'box': ((20, 33), (335, 192)), 'label': b'number_plate', 'confidence': 0.9472103714942932}
+
+data/obj/109.png
+data/obj/109.png
+1
+{'box': ((38, 39), (576, 340)), 'label': b'number_plate', 'confidence': 0.9602369666099548}
+
+data/obj/11.png
+data/obj/11.png
+1
+{'box': ((199, 137), (419, 221)), 'label': b'number_plate', 'confidence': 0.9087432622909546}
+
+data/obj/110.png
+data/obj/110.png
+1
+{'box': ((19, 85), (435, 188)), 'label': b'number_plate', 'confidence': 0.8924483060836792}
+
+data/obj/111.png
+data/obj/111.png
+1
+{'box': ((-9, 170), (444, 396)), 'label': b'number_plate', 'confidence': 0.9058511853218079}
+
+data/obj/112.png
+data/obj/112.png
+1
+{'box': ((-8, 182), (795, 318)), 'label': b'number_plate', 'confidence': 0.9125288724899292}
+
+data/obj/113.png
+data/obj/113.png
+1
+{'box': ((50, 74), (470, 337)), 'label': b'number_plate', 'confidence': 0.9395358562469482}
+
+data/obj/114.png
+data/obj/114.png
+1
+{'box': ((-11, 118), (515, 297)), 'label': b'number_plate', 'confidence': 0.9025343656539917}
+
+data/obj/115.png
+data/obj/115.png
+1
+{'box': ((189, 345), (385, 422)), 'label': b'number_plate', 'confidence': 0.8961893320083618}
+
+data/obj/116.png
+data/obj/116.png
+1
+{'box': ((34, 70), (626, 194)), 'label': b'number_plate', 'confidence': 0.8978172540664673}
+
+data/obj/117.png
+data/obj/117.png
+1
+{'box': ((110, 121), (543, 337)), 'label': b'number_plate', 'confidence': 0.9227166175842285}
+
+data/obj/118.png
+data/obj/118.png
+1
+{'box': ((157, 114), (434, 250)), 'label': b'number_plate', 'confidence': 0.9085198044776917}
+
+data/obj/119.png
+data/obj/119.png
+1
+{'box': ((122, 131), (331, 243)), 'label': b'number_plate', 'confidence': 0.9206852912902832}
+
+data/obj/12.png
+data/obj/12.png
+1
+{'box': ((354, 381), (501, 431)), 'label': b'number_plate', 'confidence': 0.8441060781478882}
+
+data/obj/120.png
+data/obj/120.png
+1
+{'box': ((-36, 60), (503, 168)), 'label': b'number_plate', 'confidence': 0.8837940692901611}
+
+data/obj/121.png
+data/obj/121.png
+1
+{'box': ((130, 149), (373, 223)), 'label': b'number_plate', 'confidence': 0.9110329747200012}
+
+data/obj/122.png
+data/obj/122.png
+1
+{'box': ((-22, 36), (470, 129)), 'label': b'number_plate', 'confidence': 0.9145875573158264}
+
+data/obj/123.png
+data/obj/123.png
+1
+{'box': ((-16, 34), (239, 128)), 'label': b'number_plate', 'confidence': 0.9246991872787476}
+
+data/obj/124.png
+data/obj/124.png
+1
+{'box': ((264, 325), (500, 409)), 'label': b'number_plate', 'confidence': 0.9059469103813171}
+
+data/obj/125.png
+data/obj/125.png
+1
+{'box': ((133, 113), (319, 201)), 'label': b'number_plate', 'confidence': 0.9282801747322083}
+
+data/obj/126.png
+data/obj/126.png
+1
+{'box': ((168, 96), (348, 166)), 'label': b'number_plate', 'confidence': 0.8980962038040161}
+
+data/obj/127.png
+data/obj/127.png
+1
+{'box': ((434, 248), (640, 355)), 'label': b'number_plate', 'confidence': 0.9032557010650635}
+
+data/obj/128.png
+data/obj/128.png
+1
+{'box': ((206, 49), (572, 215)), 'label': b'number_plate', 'confidence': 0.9328957200050354}
+
+data/obj/129.png
+data/obj/129.png
+1
+{'box': ((158, 92), (298, 157)), 'label': b'number_plate', 'confidence': 0.9124037027359009}
+
+data/obj/13.png
+data/obj/13.png
+1
+{'box': ((220, 184), (433, 240)), 'label': b'number_plate', 'confidence': 0.888751745223999}
+
+data/obj/130.png
+data/obj/130.png
+1
+{'box': ((135, 134), (376, 211)), 'label': b'number_plate', 'confidence': 0.8998456597328186}
+
+data/obj/131.png
+data/obj/131.png
+1
+{'box': ((24, 12), (478, 113)), 'label': b'number_plate', 'confidence': 0.9434232115745544}
+
+data/obj/132.png
+data/obj/132.png
+1
+{'box': ((225, 178), (377, 231)), 'label': b'number_plate', 'confidence': 0.9006586074829102}
+
+data/obj/133.png
+data/obj/133.png
+1
+{'box': ((206, 199), (303, 256)), 'label': b'number_plate', 'confidence': 0.85335373878479}
+
+data/obj/134.png
+data/obj/134.png
+1
+{'box': ((199, 269), (357, 381)), 'label': b'number_plate', 'confidence': 0.8739895820617676}
+
+data/obj/135.png
+data/obj/135.png
+1
+{'box': ((95, 153), (268, 214)), 'label': b'number_plate', 'confidence': 0.8877900838851929}
+
+data/obj/136.png
+data/obj/136.png
+1
+{'box': ((130, 281), (307, 323)), 'label': b'number_plate', 'confidence': 0.8994053602218628}
+
+data/obj/137.png
+data/obj/137.png
+1
+{'box': ((158, 197), (324, 280)), 'label': b'number_plate', 'confidence': 0.9077073931694031}
+
+data/obj/138.png
+data/obj/138.png
+1
+{'box': ((180, 263), (389, 334)), 'label': b'number_plate', 'confidence': 0.8999930024147034}
+
+data/obj/139.png
+data/obj/139.png
+1
+{'box': ((127, 287), (306, 367)), 'label': b'number_plate', 'confidence': 0.8987787365913391}
+
+data/obj/14.png
+data/obj/14.png
+1
+{'box': ((101, 215), (244, 343)), 'label': b'number_plate', 'confidence': 0.9041457176208496}
+
+data/obj/140.png
+data/obj/140.png
+1
+{'box': ((25, 206), (150, 254)), 'label': b'number_plate', 'confidence': 0.9044581651687622}
+
+data/obj/141.png
+data/obj/141.png
+1
+{'box': ((220, 152), (314, 189)), 'label': b'number_plate', 'confidence': 0.9043946862220764}
+
+data/obj/142.png
+data/obj/142.png
+1
+{'box': ((153, 133), (392, 194)), 'label': b'number_plate', 'confidence': 0.8896227478981018}
+
+data/obj/143.png
+data/obj/143.png
+1
+{'box': ((641, 341), (741, 380)), 'label': b'number_plate', 'confidence': 0.780292272567749}
+
+data/obj/144.png
+data/obj/144.png
+1
+{'box': ((180, 200), (352, 278)), 'label': b'number_plate', 'confidence': 0.9030987620353699}
+
+data/obj/145.png
+data/obj/145.png
+1
+{'box': ((104, 183), (449, 282)), 'label': b'number_plate', 'confidence': 0.8835593461990356}
+
+data/obj/146.png
+data/obj/146.png
+1
+{'box': ((307, 274), (714, 388)), 'label': b'number_plate', 'confidence': 0.8811931014060974}
+
+data/obj/147.png
+data/obj/147.png
+1
+{'box': ((190, 122), (358, 184)), 'label': b'number_plate', 'confidence': 0.8887307643890381}
+
+data/obj/148.png
+data/obj/148.png
+1
+{'box': ((164, 228), (313, 273)), 'label': b'number_plate', 'confidence': 0.8833054900169373}
+
+data/obj/149.png
+data/obj/149.png
+1
+{'box': ((118, 259), (408, 330)), 'label': b'number_plate', 'confidence': 0.9085191488265991}
+
+data/obj/15.png
+data/obj/15.png
+1
+{'box': ((148, 97), (359, 185)), 'label': b'number_plate', 'confidence': 0.9113322496414185}
+
+data/obj/150.png
+data/obj/150.png
+1
+{'box': ((177, 260), (350, 325)), 'label': b'number_plate', 'confidence': 0.8978309035301208}
+
+data/obj/151.png
+data/obj/151.png
+1
+{'box': ((141, 240), (342, 315)), 'label': b'number_plate', 'confidence': 0.8947872519493103}
+
+data/obj/152.png
+data/obj/152.png
+1
+{'box': ((95, 95), (194, 144)), 'label': b'number_plate', 'confidence': 0.9289012551307678}
+
+data/obj/153.png
+data/obj/153.png
+1
+{'box': ((118, 261), (233, 299)), 'label': b'number_plate', 'confidence': 0.8808788657188416}
+
+data/obj/154.png
+data/obj/154.png
+1
+{'box': ((98, 137), (177, 170)), 'label': b'number_plate', 'confidence': 0.8829153180122375}
+
+data/obj/155.png
+data/obj/155.png
+1
+{'box': ((189, 213), (397, 299)), 'label': b'number_plate', 'confidence': 0.8983697891235352}
+
+data/obj/156.png
+data/obj/156.png
+1
+{'box': ((342, 287), (877, 393)), 'label': b'number_plate', 'confidence': 0.8723954558372498}
+
+data/obj/157.png
+data/obj/157.png
+1
+{'box': ((356, 194), (587, 285)), 'label': b'number_plate', 'confidence': 0.8865125179290771}
+
+data/obj/158.png
+data/obj/158.png
+1
+{'box': ((60, 125), (292, 223)), 'label': b'number_plate', 'confidence': 0.9262657761573792}
+
+data/obj/159.png
+data/obj/159.png
+1
+{'box': ((88, 42), (355, 471)), 'label': b'number_plate', 'confidence': 0.9381672143936157}
+
+data/obj/16.png
+data/obj/16.png
+1
+{'box': ((266, 338), (524, 433)), 'label': b'number_plate', 'confidence': 0.896926999092102}
+
+data/obj/160.png
+data/obj/160.png
+1
+{'box': ((376, 228), (775, 498)), 'label': b'number_plate', 'confidence': 0.907444953918457}
+
+data/obj/161.png
+data/obj/161.png
+1
+{'box': ((1029, 619), (1269, 672)), 'label': b'number_plate', 'confidence': 0.7763003706932068}
+
+data/obj/162.png
+data/obj/162.png
+1
+{'box': ((259, 220), (321, 264)), 'label': b'number_plate', 'confidence': 0.7143586277961731}
+
+data/obj/163.png
+data/obj/163.png
+1
+{'box': ((89, 17), (237, 60)), 'label': b'number_plate', 'confidence': 0.9286071062088013}
+
+data/obj/164.png
+data/obj/164.png
+1
+{'box': ((334, 226), (510, 317)), 'label': b'number_plate', 'confidence': 0.9027842283248901}
+
+data/obj/165.png
+data/obj/165.png
+1
+{'box': ((243, 368), (430, 432)), 'label': b'number_plate', 'confidence': 0.9103419780731201}
+
+data/obj/166.png
+data/obj/166.png
+1
+{'box': ((110, 178), (313, 241)), 'label': b'number_plate', 'confidence': 0.8684369921684265}
+
+data/obj/167.png
+data/obj/167.png
+1
+{'box': ((8, 38), (319, 152)), 'label': b'number_plate', 'confidence': 0.9628986120223999}
+
+data/obj/168.png
+data/obj/168.png
+1
+{'box': ((291, 305), (584, 404)), 'label': b'number_plate', 'confidence': 0.9163858890533447}
+
+data/obj/169.png
+data/obj/169.png
+1
+{'box': ((225, 139), (430, 198)), 'label': b'number_plate', 'confidence': 0.9033486843109131}
+
+data/obj/17.png
+data/obj/17.png
+1
+{'box': ((305, 252), (489, 320)), 'label': b'number_plate', 'confidence': 0.9028312563896179}
+
+data/obj/170.png
+data/obj/170.png
+1
+{'box': ((3, 55), (252, 212)), 'label': b'number_plate', 'confidence': 0.9108991026878357}
+
+data/obj/171.png
+data/obj/171.png
+1
+{'box': ((500, 433), (1805, 1102)), 'label': b'number_plate', 'confidence': 0.9073445200920105}
+
+data/obj/172.png
+data/obj/172.png
+1
+{'box': ((405, 673), (817, 786)), 'label': b'number_plate', 'confidence': 0.8697465658187866}
+
+data/obj/173.png
+data/obj/173.png
+1
+{'box': ((39, 21), (474, 125)), 'label': b'number_plate', 'confidence': 0.9552124738693237}
+
+data/obj/174.png
+data/obj/174.png
+1
+{'box': ((227, 122), (425, 183)), 'label': b'number_plate', 'confidence': 0.885309636592865}
+
+data/obj/175.png
+data/obj/175.png
+1
+{'box': ((213, 78), (454, 164)), 'label': b'number_plate', 'confidence': 0.9426828026771545}
+
+data/obj/176.png
+data/obj/176.png
+1
+{'box': ((125, 220), (485, 431)), 'label': b'number_plate', 'confidence': 0.9392520785331726}
+
+data/obj/177.png
+data/obj/177.png
+1
+{'box': ((132, 178), (268, 229)), 'label': b'number_plate', 'confidence': 0.8881030082702637}
+
+data/obj/178.png
+data/obj/178.png
+1
+{'box': ((38, 120), (105, 164)), 'label': b'number_plate', 'confidence': 0.8799355626106262}
+
+data/obj/179.png
+data/obj/179.png
+1
+{'box': ((243, 261), (308, 322)), 'label': b'number_plate', 'confidence': 0.8423455953598022}
+
+data/obj/18.png
+data/obj/18.png
+1
+{'box': ((54, 213), (191, 282)), 'label': b'number_plate', 'confidence': 0.9034155011177063}
+
+data/obj/180.png
+data/obj/180.png
+1
+{'box': ((397, 452), (586, 508)), 'label': b'number_plate', 'confidence': 0.8743576407432556}
+
+data/obj/181.png
+data/obj/181.png
+1
+{'box': ((217, 127), (488, 193)), 'label': b'number_plate', 'confidence': 0.8995214700698853}
+
+data/obj/182.png
+data/obj/182.png
+1
+{'box': ((293, 249), (501, 321)), 'label': b'number_plate', 'confidence': 0.8801128268241882}
+
+data/obj/183.png
+data/obj/183.png
+1
+{'box': ((184, 203), (249, 234)), 'label': b'number_plate', 'confidence': 0.8750254511833191}
+
+data/obj/184.png
+data/obj/184.png
+1
+{'box': ((169, 259), (358, 300)), 'label': b'number_plate', 'confidence': 0.9040796756744385}
+
+data/obj/185.png
+data/obj/185.png
+1
+{'box': ((100, 145), (263, 211)), 'label': b'number_plate', 'confidence': 0.9174005389213562}
+
+data/obj/186.png
+data/obj/186.png
+1
+{'box': ((206, 270), (354, 327)), 'label': b'number_plate', 'confidence': 0.9120286703109741}
+
+data/obj/187.png
+data/obj/187.png
+1
+{'box': ((200, 184), (406, 236)), 'label': b'number_plate', 'confidence': 0.8893804550170898}
+
+data/obj/188.png
+data/obj/188.png
+1
+{'box': ((241, 177), (352, 224)), 'label': b'number_plate', 'confidence': 0.8774769306182861}
+
+data/obj/189.png
+data/obj/189.png
+1
+{'box': ((794, 240), (1041, 305)), 'label': b'number_plate', 'confidence': 0.8893613815307617}
+
+data/obj/19.png
+data/obj/19.png
+1
+{'box': ((340, 193), (431, 235)), 'label': b'number_plate', 'confidence': 0.8733711242675781}
+
+data/obj/190.png
+data/obj/190.png
+1
+{'box': ((154, 192), (589, 371)), 'label': b'number_plate', 'confidence': 0.9076239466667175}
+
+data/obj/191.png
+data/obj/191.png
+1
+{'box': ((119, 87), (225, 119)), 'label': b'number_plate', 'confidence': 0.8612393736839294}
+
+data/obj/192.png
+data/obj/192.png
+1
+{'box': ((332, 928), (625, 1069)), 'label': b'number_plate', 'confidence': 0.880565345287323}
+
+data/obj/193.png
+data/obj/193.png
+1
+{'box': ((537, 387), (770, 470)), 'label': b'number_plate', 'confidence': 0.880999743938446}
+
+data/obj/194.png
+data/obj/194.png
+1
+{'box': ((14, 35), (239, 178)), 'label': b'number_plate', 'confidence': 0.9542537331581116}
+
+data/obj/195.png
+data/obj/195.png
+1
+{'box': ((91, 100), (133, 127)), 'label': b'number_plate', 'confidence': 0.8538306355476379}
+
+data/obj/196.png
+data/obj/196.png
+1
+{'box': ((73, 122), (199, 188)), 'label': b'number_plate', 'confidence': 0.891871452331543}
+
+data/obj/197.png
+data/obj/197.png
+1
+{'box': ((158, 266), (343, 336)), 'label': b'number_plate', 'confidence': 0.9117244482040405}
+
+data/obj/198.png
+data/obj/198.png
+1
+{'box': ((113, 124), (233, 194)), 'label': b'number_plate', 'confidence': 0.9017419815063477}
+
+data/obj/199.png
+data/obj/199.png
+1
+{'box': ((198, 198), (275, 232)), 'label': b'number_plate', 'confidence': 0.8502392172813416}
+
+data/obj/2.png
+data/obj/2.png
+1
+{'box': ((85, 381), (287, 444)), 'label': b'number_plate', 'confidence': 0.8935068249702454}
+
+data/obj/20.png
+data/obj/20.png
+1
+{'box': ((245, 189), (757, 392)), 'label': b'number_plate', 'confidence': 0.9257537126541138}
+
+data/obj/200.png
+data/obj/200.png
+1
+{'box': ((565, 203), (672, 250)), 'label': b'number_plate', 'confidence': 0.8373223543167114}
+
+data/obj/201.png
+data/obj/201.png
+1
+{'box': ((17, 244), (101, 319)), 'label': b'number_plate', 'confidence': 0.8812729120254517}
+
+data/obj/202.png
+data/obj/202.png
+1
+{'box': ((249, 184), (371, 238)), 'label': b'number_plate', 'confidence': 0.8739056587219238}
+
+data/obj/203.png
+data/obj/203.png
+1
+{'box': ((86, 206), (414, 312)), 'label': b'number_plate', 'confidence': 0.9277967214584351}
+
+data/obj/204.png
+data/obj/204.png
+1
+{'box': ((238, 225), (382, 310)), 'label': b'number_plate', 'confidence': 0.8644405603408813}
+
+data/obj/205.png
+data/obj/205.png
+1
+{'box': ((155, 209), (286, 265)), 'label': b'number_plate', 'confidence': 0.888911783695221}
+
+data/obj/206.png
+data/obj/206.png
+1
+{'box': ((95, 153), (268, 214)), 'label': b'number_plate', 'confidence': 0.8877900838851929}
+
+data/obj/207.png
+data/obj/207.png
+1
+{'box': ((364, 168), (436, 199)), 'label': b'number_plate', 'confidence': 0.7992382645606995}
+
+data/obj/208.png
+data/obj/208.png
+1
+{'box': ((136, 65), (449, 160)), 'label': b'number_plate', 'confidence': 0.8984017372131348}
+
+data/obj/209.png
+data/obj/209.png
+1
+{'box': ((155, 196), (373, 261)), 'label': b'number_plate', 'confidence': 0.9017919301986694}
+
+data/obj/21.png
+data/obj/21.png
+1
+{'box': ((145, 173), (350, 278)), 'label': b'number_plate', 'confidence': 0.9238435626029968}
+
+data/obj/210.png
+data/obj/210.png
+1
+{'box': ((63, 220), (257, 288)), 'label': b'number_plate', 'confidence': 0.9040467143058777}
+
+data/obj/211.png
+data/obj/211.png
+1
+{'box': ((129, 102), (405, 229)), 'label': b'number_plate', 'confidence': 0.9250171184539795}
+
+data/obj/212.png
+data/obj/212.png
+1
+{'box': ((159, 86), (372, 162)), 'label': b'number_plate', 'confidence': 0.9103899598121643}
+
+data/obj/213.png
+data/obj/213.png
+1
+{'box': ((152, 114), (346, 199)), 'label': b'number_plate', 'confidence': 0.849643886089325}
+
+data/obj/214.png
+data/obj/214.png
+1
+{'box': ((129, 111), (401, 208)), 'label': b'number_plate', 'confidence': 0.9367263913154602}
+
+data/obj/215.png
+data/obj/215.png
+1
+{'box': ((152, 241), (340, 324)), 'label': b'number_plate', 'confidence': 0.8854612112045288}
+
+data/obj/216.png
+data/obj/216.png
+1
+{'box': ((187, 300), (380, 373)), 'label': b'number_plate', 'confidence': 0.8754355907440186}
+
+data/obj/217.png
+data/obj/217.png
+1
+{'box': ((237, 100), (388, 165)), 'label': b'number_plate', 'confidence': 0.894947350025177}
+
+data/obj/218.png
+data/obj/218.png
+1
+{'box': ((96, 110), (403, 214)), 'label': b'number_plate', 'confidence': 0.9165987372398376}
+
+data/obj/219.png
+data/obj/219.png
+1
+{'box': ((188, 117), (374, 186)), 'label': b'number_plate', 'confidence': 0.9103752374649048}
+
+data/obj/22.png
+data/obj/22.png
+1
+{'box': ((280, 4), (506, 69)), 'label': b'number_plate', 'confidence': 0.7776240110397339}
+
+data/obj/220.png
+data/obj/220.png
+1
+{'box': ((139, 152), (322, 215)), 'label': b'number_plate', 'confidence': 0.8844684362411499}
+
+data/obj/221.png
+data/obj/221.png
+1
+{'box': ((56, 186), (190, 241)), 'label': b'number_plate', 'confidence': 0.8949438333511353}
+
+data/obj/222.png
+data/obj/222.png
+1
+{'box': ((95, 325), (295, 412)), 'label': b'number_plate', 'confidence': 0.9021791815757751}
+
+data/obj/223.png
+data/obj/223.png
+1
+{'box': ((140, 223), (352, 275)), 'label': b'number_plate', 'confidence': 0.9016387462615967}
+
+data/obj/224.png
+data/obj/224.png
+1
+{'box': ((133, 195), (346, 276)), 'label': b'number_plate', 'confidence': 0.9056217074394226}
+
+data/obj/225.png
+data/obj/225.png
+1
+{'box': ((23, 36), (194, 107)), 'label': b'number_plate', 'confidence': 0.9251832365989685}
+
+data/obj/226.png
+data/obj/226.png
+1
+{'box': ((141, 205), (407, 273)), 'label': b'number_plate', 'confidence': 0.9102930426597595}
+
+data/obj/227.png
+data/obj/227.png
+1
+{'box': ((173, 92), (377, 160)), 'label': b'number_plate', 'confidence': 0.9033136367797852}
+
+data/obj/228.png
+data/obj/228.png
+1
+{'box': ((109, 151), (210, 182)), 'label': b'number_plate', 'confidence': 0.8762404918670654}
+
+data/obj/229.png
+data/obj/229.png
+1
+{'box': ((117, 105), (219, 155)), 'label': b'number_plate', 'confidence': 0.9077610969543457}
+
+data/obj/23.png
+data/obj/23.png
+1
+{'box': ((253, 501), (483, 584)), 'label': b'number_plate', 'confidence': 0.8854260444641113}
+
+data/obj/230.png
+data/obj/230.png
+1
+{'box': ((99, 140), (270, 193)), 'label': b'number_plate', 'confidence': 0.9159579277038574}
+
+data/obj/231.png
+data/obj/231.png
+1
+{'box': ((132, 156), (332, 212)), 'label': b'number_plate', 'confidence': 0.9106643199920654}
+
+data/obj/232.png
+data/obj/232.png
+1
+{'box': ((22, 118), (147, 170)), 'label': b'number_plate', 'confidence': 0.9119004607200623}
+
+data/obj/233.png
+data/obj/233.png
+1
+{'box': ((175, 227), (356, 289)), 'label': b'number_plate', 'confidence': 0.883876383304596}
+
+data/obj/234.png
+data/obj/234.png
+1
+{'box': ((175, 157), (318, 205)), 'label': b'number_plate', 'confidence': 0.884859025478363}
+
+data/obj/235.png
+data/obj/235.png
+1
+{'box': ((174, 203), (306, 251)), 'label': b'number_plate', 'confidence': 0.9104474186897278}
+
+data/obj/236.png
+data/obj/236.png
+1
+{'box': ((184, 203), (249, 234)), 'label': b'number_plate', 'confidence': 0.8750254511833191}
+
+data/obj/237.png
+data/obj/237.png
+1
+{'box': ((26, 20), (352, 120)), 'label': b'number_plate', 'confidence': 0.9141185283660889}
+
+data/obj/24.png
+data/obj/24.png
+1
+{'box': ((291, 417), (572, 492)), 'label': b'number_plate', 'confidence': 0.8710550665855408}
+
+data/obj/25.png
+data/obj/25.png
+1
+{'box': ((167, 194), (427, 282)), 'label': b'number_plate', 'confidence': 0.9028864502906799}
+
+data/obj/26.png
+data/obj/26.png
+1
+{'box': ((282, 178), (437, 222)), 'label': b'number_plate', 'confidence': 0.8974533081054688}
+
+data/obj/27.png
+data/obj/27.png
+1
+{'box': ((192, 218), (446, 319)), 'label': b'number_plate', 'confidence': 0.9179067611694336}
+
+data/obj/28.png
+data/obj/28.png
+1
+{'box': ((56, 181), (242, 298)), 'label': b'number_plate', 'confidence': 0.8966332077980042}
+
+data/obj/29.png
+data/obj/29.png
+1
+{'box': ((315, 142), (2422, 611)), 'label': b'number_plate', 'confidence': 0.9083967208862305}
+
+data/obj/3.png
+data/obj/3.png
+1
+{'box': ((42, 221), (117, 259)), 'label': b'number_plate', 'confidence': 0.8997032642364502}
+
+data/obj/30.png
+data/obj/30.png
+1
+{'box': ((107, 50), (1543, 333)), 'label': b'number_plate', 'confidence': 0.9275277853012085}
+
+data/obj/31.png
+data/obj/31.png
+1
+{'box': ((238, 173), (1474, 691)), 'label': b'number_plate', 'confidence': 0.9479396343231201}
+
+data/obj/32.png
+data/obj/32.png
+1
+{'box': ((456, 271), (566, 355)), 'label': b'number_plate', 'confidence': 0.8586504459381104}
+
+data/obj/33.png
+data/obj/33.png
+1
+{'box': ((110, 235), (282, 320)), 'label': b'number_plate', 'confidence': 0.9007415771484375}
+
+data/obj/34.png
+data/obj/34.png
+1
+{'box': ((49, 350), (272, 418)), 'label': b'number_plate', 'confidence': 0.9149380922317505}
+
+data/obj/35.png
+data/obj/35.png
+1
+{'box': ((1208, 963), (2531, 1356)), 'label': b'number_plate', 'confidence': 0.8538708686828613}
+
+data/obj/36.png
+data/obj/36.png
+1
+{'box': ((325, 263), (541, 319)), 'label': b'number_plate', 'confidence': 0.8447796702384949}
+
+data/obj/37.png
+data/obj/37.png
+1
+{'box': ((94, 96), (196, 137)), 'label': b'number_plate', 'confidence': 0.9196620583534241}
+
+data/obj/38.png
+data/obj/38.png
+1
+{'box': ((122, 103), (190, 174)), 'label': b'number_plate', 'confidence': 0.8878383636474609}
+
+data/obj/39.png
+data/obj/39.png
+1
+{'box': ((808, 495), (888, 519)), 'label': b'number_plate', 'confidence': 0.6661627292633057}
+
+data/obj/4.png
+data/obj/4.png
+1
+{'box': ((207, 312), (361, 363)), 'label': b'number_plate', 'confidence': 0.8604005575180054}
+
+data/obj/40.png
+data/obj/40.png
+1
+{'box': ((-6, 78), (314, 172)), 'label': b'number_plate', 'confidence': 0.9343574047088623}
+
+data/obj/41.png
+data/obj/41.png
+1
+{'box': ((150, 178), (316, 262)), 'label': b'number_plate', 'confidence': 0.8844072818756104}
+
+data/obj/42.png
+data/obj/42.png
+1
+{'box': ((152, 221), (344, 302)), 'label': b'number_plate', 'confidence': 0.9171918630599976}
+
+data/obj/43.png
+data/obj/43.png
+1
+{'box': ((29, 260), (165, 328)), 'label': b'number_plate', 'confidence': 0.9059925675392151}
+
+data/obj/44.png
+data/obj/44.png
+1
+{'box': ((31, 26), (474, 243)), 'label': b'number_plate', 'confidence': 0.9491243958473206}
+
+data/obj/45.png
+data/obj/45.png
+1
+{'box': ((606, 466), (896, 530)), 'label': b'number_plate', 'confidence': 0.8528847694396973}
+
+data/obj/46.png
+data/obj/46.png
+1
+{'box': ((407, 166), (526, 213)), 'label': b'number_plate', 'confidence': 0.8790106773376465}
+
+data/obj/47.png
+data/obj/47.png
+1
+{'box': ((185, 273), (375, 356)), 'label': b'number_plate', 'confidence': 0.8927010297775269}
+
+data/obj/48.png
+data/obj/48.png
+1
+{'box': ((400, 423), (588, 482)), 'label': b'number_plate', 'confidence': 0.8552928566932678}
+
+data/obj/49.png
+data/obj/49.png
+1
+{'box': ((273, 284), (1145, 531)), 'label': b'number_plate', 'confidence': 0.9225943088531494}
+
+data/obj/5.png
+data/obj/5.png
+1
+{'box': ((143, 223), (949, 545)), 'label': b'number_plate', 'confidence': 0.9350006580352783}
+
+data/obj/50.png
+data/obj/50.png
+1
+{'box': ((112, 195), (211, 241)), 'label': b'number_plate', 'confidence': 0.903739333152771}
+
+data/obj/51.png
+data/obj/51.png
+1
+{'box': ((445, 713), (663, 788)), 'label': b'number_plate', 'confidence': 0.8368831872940063}
+
+data/obj/52.png
+data/obj/52.png
+1
+{'box': ((367, 199), (499, 264)), 'label': b'number_plate', 'confidence': 0.8969594836235046}
+
+data/obj/53.png
+data/obj/53.png
+1
+{'box': ((44, 291), (192, 350)), 'label': b'number_plate', 'confidence': 0.8937718868255615}
+
+data/obj/54.png
+data/obj/54.png
+1
+{'box': ((208, 154), (354, 194)), 'label': b'number_plate', 'confidence': 0.868627667427063}
+
+data/obj/55.png
+data/obj/55.png
+1
+{'box': ((109, 228), (271, 287)), 'label': b'number_plate', 'confidence': 0.9180030822753906}
+
+data/obj/56.png
+data/obj/56.png
+1
+{'box': ((273, 188), (438, 236)), 'label': b'number_plate', 'confidence': 0.875941812992096}
+
+data/obj/57.png
+data/obj/57.png
+1
+{'box': ((395, 402), (514, 441)), 'label': b'number_plate', 'confidence': 0.7726419568061829}
+
+data/obj/58.png
+data/obj/58.png
+1
+{'box': ((155, 186), (284, 231)), 'label': b'number_plate', 'confidence': 0.8363249897956848}
+
+data/obj/59.png
+data/obj/59.png
+1
+{'box': ((103, 252), (302, 368)), 'label': b'number_plate', 'confidence': 0.9279044270515442}
+
+data/obj/6.png
+data/obj/6.png
+1
+{'box': ((111, 275), (258, 338)), 'label': b'number_plate', 'confidence': 0.881544291973114}
+
+data/obj/60.png
+data/obj/60.png
+1
+{'box': ((150, 231), (352, 328)), 'label': b'number_plate', 'confidence': 0.901454746723175}
+
+data/obj/61.png
+data/obj/61.png
+1
+{'box': ((781, 728), (1119, 832)), 'label': b'number_plate', 'confidence': 0.8221392631530762}
+
+data/obj/62.png
+data/obj/62.png
+1
+{'box': ((116, 208), (294, 265)), 'label': b'number_plate', 'confidence': 0.887843132019043}
+
+data/obj/63.png
+data/obj/63.png
+1
+{'box': ((19, 26), (492, 222)), 'label': b'number_plate', 'confidence': 0.9285918474197388}
+
+data/obj/64.png
+data/obj/64.png
+1
+{'box': ((36, 195), (190, 272)), 'label': b'number_plate', 'confidence': 0.9016919136047363}
+
+data/obj/65.png
+data/obj/65.png
+1
+{'box': ((67, 129), (174, 191)), 'label': b'number_plate', 'confidence': 0.8922631144523621}
+
+data/obj/66.png
+data/obj/66.png
+1
+{'box': ((26, 28), (233, 161)), 'label': b'number_plate', 'confidence': 0.9248839616775513}
+
+data/obj/67.png
+data/obj/67.png
+1
+{'box': ((97, 132), (375, 282)), 'label': b'number_plate', 'confidence': 0.9127795696258545}
+
+data/obj/68.png
+data/obj/68.png
+1
+{'box': ((49, 200), (108, 261)), 'label': b'number_plate', 'confidence': 0.8178836703300476}
+
+data/obj/69.png
+data/obj/69.png
+1
+{'box': ((97, 295), (208, 344)), 'label': b'number_plate', 'confidence': 0.8328475952148438}
+
+data/obj/7.png
+data/obj/7.png
+1
+{'box': ((223, 235), (447, 320)), 'label': b'number_plate', 'confidence': 0.9167039394378662}
+
+data/obj/70.png
+data/obj/70.png
+1
+{'box': ((153, 203), (323, 262)), 'label': b'number_plate', 'confidence': 0.9152976870536804}
+
+data/obj/71.png
+data/obj/71.png
+1
+{'box': ((173, 208), (299, 266)), 'label': b'number_plate', 'confidence': 0.9147080183029175}
+
+data/obj/72.png
+data/obj/72.png
+1
+{'box': ((148, 244), (343, 314)), 'label': b'number_plate', 'confidence': 0.8922580480575562}
+
+data/obj/73.png
+data/obj/73.png
+1
+{'box': ((140, 69), (386, 197)), 'label': b'number_plate', 'confidence': 0.9267044067382812}
+
+data/obj/74.png
+data/obj/74.png
+1
+{'box': ((165, 182), (290, 229)), 'label': b'number_plate', 'confidence': 0.8724774718284607}
+
+data/obj/75.png
+data/obj/75.png
+1
+{'box': ((158, 160), (346, 228)), 'label': b'number_plate', 'confidence': 0.9112240076065063}
+
+data/obj/76.png
+data/obj/76.png
+1
+{'box': ((419, 142), (513, 184)), 'label': b'number_plate', 'confidence': 0.8826448917388916}
+
+data/obj/77.png
+data/obj/77.png
+1
+{'box': ((143, 199), (328, 248)), 'label': b'number_plate', 'confidence': 0.8989763855934143}
+
+data/obj/78.png
+data/obj/78.png
+1
+{'box': ((473, 101), (824, 252)), 'label': b'number_plate', 'confidence': 0.8518965840339661}
+
+data/obj/79.png
+data/obj/79.png
+1
+{'box': ((155, 137), (298, 195)), 'label': b'number_plate', 'confidence': 0.9103925824165344}
+
+data/obj/8.png
+data/obj/8.png
+1
+{'box': ((265, 245), (395, 317)), 'label': b'number_plate', 'confidence': 0.9122049808502197}
+
+data/obj/80.png
+data/obj/80.png
+1
+{'box': ((549, 454), (846, 543)), 'label': b'number_plate', 'confidence': 0.9088432788848877}
+
+data/obj/81.png
+data/obj/81.png
+1
+{'box': ((57, 131), (361, 254)), 'label': b'number_plate', 'confidence': 0.8837876915931702}
+
+data/obj/82.png
+data/obj/82.png
+1
+{'box': ((329, 299), (468, 373)), 'label': b'number_plate', 'confidence': 0.9096952676773071}
+
+data/obj/83.png
+data/obj/83.png
+1
+{'box': ((66, 45), (398, 216)), 'label': b'number_plate', 'confidence': 0.796238899230957}
+
+data/obj/84.png
+data/obj/84.png
+1
+{'box': ((205, 130), (342, 179)), 'label': b'number_plate', 'confidence': 0.8989089727401733}
+
+data/obj/85.png
+data/obj/85.png
+1
+{'box': ((101, 205), (259, 278)), 'label': b'number_plate', 'confidence': 0.9128034114837646}
+
+data/obj/86.png
+data/obj/86.png
+1
+{'box': ((152, 229), (360, 320)), 'label': b'number_plate', 'confidence': 0.9103029370307922}
+
+data/obj/87.png
+data/obj/87.png
+1
+{'box': ((199, 179), (363, 262)), 'label': b'number_plate', 'confidence': 0.8983258008956909}
+
+data/obj/88.png
+data/obj/88.png
+1
+{'box': ((806, 652), (1064, 732)), 'label': b'number_plate', 'confidence': 0.8306778073310852}
+
+data/obj/89.png
+data/obj/89.png
+1
+{'box': ((1015, 564), (1440, 750)), 'label': b'number_plate', 'confidence': 0.9147061705589294}
+
+data/obj/9.png
+data/obj/9.png
+1
+{'box': ((652, 502), (880, 576)), 'label': b'number_plate', 'confidence': 0.8664565682411194}
+
+data/obj/90.png
+data/obj/90.png
+1
+{'box': ((837, 802), (1588, 984)), 'label': b'number_plate', 'confidence': 0.923494815826416}
+
+data/obj/91.png
+data/obj/91.png
+1
+{'box': ((315, 103), (386, 146)), 'label': b'number_plate', 'confidence': 0.8473907113075256}
+
+data/obj/92.png
+data/obj/92.png
+1
+{'box': ((607, 286), (787, 352)), 'label': b'number_plate', 'confidence': 0.8807235956192017}
+
+data/obj/93.png
+data/obj/93.png
+1
+{'box': ((158, 352), (299, 423)), 'label': b'number_plate', 'confidence': 0.8865891695022583}
+
+data/obj/94.png
+data/obj/94.png
+1
+{'box': ((58, 144), (168, 208)), 'label': b'number_plate', 'confidence': 0.8982595205307007}
+
+data/obj/95.png
+data/obj/95.png
+1
+{'box': ((294, 214), (446, 261)), 'label': b'number_plate', 'confidence': 0.8846043944358826}
+
+data/obj/96.png
+data/obj/96.png
+1
+{'box': ((318, 410), (666, 533)), 'label': b'number_plate', 'confidence': 0.8877530694007874}
+
+data/obj/97.png
+data/obj/97.png
+1
+{'box': ((318, 190), (598, 272)), 'label': b'number_plate', 'confidence': 0.9112659692764282}
+
+data/obj/98.png
+data/obj/98.png
+1
+{'box': ((123, 110), (222, 175)), 'label': b'number_plate', 'confidence': 0.9109668135643005}
+
+data/obj/99.png
+data/obj/99.png
+1
+{'box': ((19, 65), (223, 150)), 'label': b'number_plate', 'confidence': 0.8947025537490845}
+
+
+ seen 64 
+Loaded - names_list: /home/spandan/humain/darknet/cfg/obj.names, classes = 1 
+ Try to load cfg: cfg/yolo-voc.2.0.cfg, weights: ./backup/yolo-voc_final.weights, clear = 0 
+
+ reorg_old 
+data/obj/1.png
+Picname-1.png
+data/obj/1.png
+1
+{'box': ((587, 271), (700, 321)), 'label': b'number_plate', 'confidence': 0.8109698295593262}
+
+data/obj/10.png
+Picname-10.png
+data/obj/10.png
+1
+{'box': ((694, 350), (967, 580)), 'label': b'number_plate', 'confidence': 0.8931399583816528}
+
+data/obj/100.png
+Picname-100.png
+data/obj/100.png
+1
+{'box': ((105, 112), (257, 196)), 'label': b'number_plate', 'confidence': 0.9029948115348816}
+
+data/obj/101.png
+Picname-101.png
+data/obj/101.png
+1
+{'box': ((27, 51), (227, 164)), 'label': b'number_plate', 'confidence': 0.9465288519859314}
+
+data/obj/102.png
+Picname-102.png
+data/obj/102.png
+1
+{'box': ((15, 59), (234, 152)), 'label': b'number_plate', 'confidence': 0.9563860893249512}
+
+data/obj/103.png
+Picname-103.png
+data/obj/103.png
+1
+{'box': ((122, 72), (367, 203)), 'label': b'number_plate', 'confidence': 0.9582653641700745}
+
+data/obj/104.png
+Picname-104.png
+data/obj/104.png
+1
+{'box': ((117, 175), (2479, 737)), 'label': b'number_plate', 'confidence': 0.9205394983291626}
+
+data/obj/105.png
+Picname-105.png
+data/obj/105.png
+1
+{'box': ((316, 183), (457, 220)), 'label': b'number_plate', 'confidence': 0.8654817938804626}
+
+data/obj/106.png
+Picname-106.png
+data/obj/106.png
+1
+{'box': ((-26, 99), (759, 406)), 'label': b'number_plate', 'confidence': 0.9424229860305786}
+
+data/obj/107.png
+Picname-107.png
+data/obj/107.png
+1
+{'box': ((228, 183), (323, 247)), 'label': b'number_plate', 'confidence': 0.8554218411445618}
+
+data/obj/108.png
+Picname-108.png
+data/obj/108.png
+1
+{'box': ((20, 33), (335, 192)), 'label': b'number_plate', 'confidence': 0.9472103714942932}
+
+data/obj/109.png
+Picname-109.png
+data/obj/109.png
+1
+{'box': ((38, 39), (576, 340)), 'label': b'number_plate', 'confidence': 0.9602369666099548}
+
+data/obj/11.png
+Picname-11.png
+data/obj/11.png
+1
+{'box': ((199, 137), (419, 221)), 'label': b'number_plate', 'confidence': 0.9087432622909546}
+
+data/obj/110.png
+Picname-110.png
+data/obj/110.png
+1
+{'box': ((19, 85), (435, 188)), 'label': b'number_plate', 'confidence': 0.8924483060836792}
+
+data/obj/111.png
+Picname-111.png
+data/obj/111.png
+1
+{'box': ((-9, 170), (444, 396)), 'label': b'number_plate', 'confidence': 0.9058511853218079}
+
+data/obj/112.png
+Picname-112.png
+data/obj/112.png
+1
+{'box': ((-8, 182), (795, 318)), 'label': b'number_plate', 'confidence': 0.9125288724899292}
+
+data/obj/113.png
+Picname-113.png
+data/obj/113.png
+1
+{'box': ((50, 74), (470, 337)), 'label': b'number_plate', 'confidence': 0.9395358562469482}
+
+data/obj/114.png
+Picname-114.png
+data/obj/114.png
+1
+{'box': ((-11, 118), (515, 297)), 'label': b'number_plate', 'confidence': 0.9025343656539917}
+
+data/obj/115.png
+Picname-115.png
+data/obj/115.png
+1
+{'box': ((189, 345), (385, 422)), 'label': b'number_plate', 'confidence': 0.8961893320083618}
+
+data/obj/116.png
+Picname-116.png
+data/obj/116.png
+1
+{'box': ((34, 70), (626, 194)), 'label': b'number_plate', 'confidence': 0.8978172540664673}
+
+data/obj/117.png
+Picname-117.png
+data/obj/117.png
+1
+{'box': ((110, 121), (543, 337)), 'label': b'number_plate', 'confidence': 0.9227166175842285}
+
+data/obj/118.png
+Picname-118.png
+data/obj/118.png
+1
+{'box': ((157, 114), (434, 250)), 'label': b'number_plate', 'confidence': 0.9085198044776917}
+
+data/obj/119.png
+Picname-119.png
+data/obj/119.png
+1
+{'box': ((122, 131), (331, 243)), 'label': b'number_plate', 'confidence': 0.9206852912902832}
+
+data/obj/12.png
+Picname-12.png
+data/obj/12.png
+1
+{'box': ((354, 381), (501, 431)), 'label': b'number_plate', 'confidence': 0.8441060781478882}
+
+data/obj/120.png
+Picname-120.png
+data/obj/120.png
+1
+{'box': ((-36, 60), (503, 168)), 'label': b'number_plate', 'confidence': 0.8837940692901611}
+
+data/obj/121.png
+Picname-121.png
+data/obj/121.png
+1
+{'box': ((130, 149), (373, 223)), 'label': b'number_plate', 'confidence': 0.9110329747200012}
+
+data/obj/122.png
+Picname-122.png
+data/obj/122.png
+1
+{'box': ((-22, 36), (470, 129)), 'label': b'number_plate', 'confidence': 0.9145875573158264}
+
+data/obj/123.png
+Picname-123.png
+data/obj/123.png
+1
+{'box': ((-16, 34), (239, 128)), 'label': b'number_plate', 'confidence': 0.9246991872787476}
+
+data/obj/124.png
+Picname-124.png
+data/obj/124.png
+1
+{'box': ((264, 325), (500, 409)), 'label': b'number_plate', 'confidence': 0.9059469103813171}
+
+data/obj/125.png
+Picname-125.png
+data/obj/125.png
+1
+{'box': ((133, 113), (319, 201)), 'label': b'number_plate', 'confidence': 0.9282801747322083}
+
+data/obj/126.png
+Picname-126.png
+data/obj/126.png
+1
+{'box': ((168, 96), (348, 166)), 'label': b'number_plate', 'confidence': 0.8980962038040161}
+
+data/obj/127.png
+Picname-127.png
+data/obj/127.png
+1
+{'box': ((434, 248), (640, 355)), 'label': b'number_plate', 'confidence': 0.9032557010650635}
+
+data/obj/128.png
+Picname-128.png
+data/obj/128.png
+1
+{'box': ((206, 49), (572, 215)), 'label': b'number_plate', 'confidence': 0.9328957200050354}
+
+data/obj/129.png
+Picname-129.png
+data/obj/129.png
+1
+{'box': ((158, 92), (298, 157)), 'label': b'number_plate', 'confidence': 0.9124037027359009}
+
+data/obj/13.png
+Picname-13.png
+data/obj/13.png
+1
+{'box': ((220, 184), (433, 240)), 'label': b'number_plate', 'confidence': 0.888751745223999}
+
+data/obj/130.png
+Picname-130.png
+data/obj/130.png
+1
+{'box': ((135, 134), (376, 211)), 'label': b'number_plate', 'confidence': 0.8998456597328186}
+
+data/obj/131.png
+Picname-131.png
+data/obj/131.png
+1
+{'box': ((24, 12), (478, 113)), 'label': b'number_plate', 'confidence': 0.9434232115745544}
+
+data/obj/132.png
+Picname-132.png
+data/obj/132.png
+1
+{'box': ((225, 178), (377, 231)), 'label': b'number_plate', 'confidence': 0.9006586074829102}
+
+data/obj/133.png
+Picname-133.png
+data/obj/133.png
+1
+{'box': ((206, 199), (303, 256)), 'label': b'number_plate', 'confidence': 0.85335373878479}
+
+data/obj/134.png
+Picname-134.png
+data/obj/134.png
+1
+{'box': ((199, 269), (357, 381)), 'label': b'number_plate', 'confidence': 0.8739895820617676}
+
+data/obj/135.png
+Picname-135.png
+data/obj/135.png
+1
+{'box': ((95, 153), (268, 214)), 'label': b'number_plate', 'confidence': 0.8877900838851929}
+
+data/obj/136.png
+Picname-136.png
+data/obj/136.png
+1
+{'box': ((130, 281), (307, 323)), 'label': b'number_plate', 'confidence': 0.8994053602218628}
+
+data/obj/137.png
+Picname-137.png
+data/obj/137.png
+1
+{'box': ((158, 197), (324, 280)), 'label': b'number_plate', 'confidence': 0.9077073931694031}
+
+data/obj/138.png
+Picname-138.png
+data/obj/138.png
+1
+{'box': ((180, 263), (389, 334)), 'label': b'number_plate', 'confidence': 0.8999930024147034}
+
+data/obj/139.png
+Picname-139.png
+data/obj/139.png
+1
+{'box': ((127, 287), (306, 367)), 'label': b'number_plate', 'confidence': 0.8987787365913391}
+
+data/obj/14.png
+Picname-14.png
+data/obj/14.png
+1
+{'box': ((101, 215), (244, 343)), 'label': b'number_plate', 'confidence': 0.9041457176208496}
+
+data/obj/140.png
+Picname-140.png
+data/obj/140.png
+1
+{'box': ((25, 206), (150, 254)), 'label': b'number_plate', 'confidence': 0.9044581651687622}
+
+data/obj/141.png
+Picname-141.png
+data/obj/141.png
+1
+{'box': ((220, 152), (314, 189)), 'label': b'number_plate', 'confidence': 0.9043946862220764}
+
+data/obj/142.png
+Picname-142.png
+data/obj/142.png
+1
+{'box': ((153, 133), (392, 194)), 'label': b'number_plate', 'confidence': 0.8896227478981018}
+
+data/obj/143.png
+Picname-143.png
+data/obj/143.png
+1
+{'box': ((641, 341), (741, 380)), 'label': b'number_plate', 'confidence': 0.780292272567749}
+
+data/obj/144.png
+Picname-144.png
+data/obj/144.png
+1
+{'box': ((180, 200), (352, 278)), 'label': b'number_plate', 'confidence': 0.9030987620353699}
+
+data/obj/145.png
+Picname-145.png
+data/obj/145.png
+1
+{'box': ((104, 183), (449, 282)), 'label': b'number_plate', 'confidence': 0.8835593461990356}
+
+data/obj/146.png
+Picname-146.png
+data/obj/146.png
+1
+{'box': ((307, 274), (714, 388)), 'label': b'number_plate', 'confidence': 0.8811931014060974}
+
+data/obj/147.png
+Picname-147.png
+data/obj/147.png
+1
+{'box': ((190, 122), (358, 184)), 'label': b'number_plate', 'confidence': 0.8887307643890381}
+
+data/obj/148.png
+Picname-148.png
+data/obj/148.png
+1
+{'box': ((164, 228), (313, 273)), 'label': b'number_plate', 'confidence': 0.8833054900169373}
+
+data/obj/149.png
+Picname-149.png
+data/obj/149.png
+1
+{'box': ((118, 259), (408, 330)), 'label': b'number_plate', 'confidence': 0.9085191488265991}
+
+data/obj/15.png
+Picname-15.png
+data/obj/15.png
+1
+{'box': ((148, 97), (359, 185)), 'label': b'number_plate', 'confidence': 0.9113322496414185}
+
+data/obj/150.png
+Picname-150.png
+data/obj/150.png
+1
+{'box': ((177, 260), (350, 325)), 'label': b'number_plate', 'confidence': 0.8978309035301208}
+
+data/obj/151.png
+Picname-151.png
+data/obj/151.png
+1
+{'box': ((141, 240), (342, 315)), 'label': b'number_plate', 'confidence': 0.8947872519493103}
+
+data/obj/152.png
+Picname-152.png
+data/obj/152.png
+1
+{'box': ((95, 95), (194, 144)), 'label': b'number_plate', 'confidence': 0.9289012551307678}
+
+data/obj/153.png
+Picname-153.png
+data/obj/153.png
+1
+{'box': ((118, 261), (233, 299)), 'label': b'number_plate', 'confidence': 0.8808788657188416}
+
+data/obj/154.png
+Picname-154.png
+data/obj/154.png
+1
+{'box': ((98, 137), (177, 170)), 'label': b'number_plate', 'confidence': 0.8829153180122375}
+
+data/obj/155.png
+Picname-155.png
+data/obj/155.png
+1
+{'box': ((189, 213), (397, 299)), 'label': b'number_plate', 'confidence': 0.8983697891235352}
+
+data/obj/156.png
+Picname-156.png
+data/obj/156.png
+1
+{'box': ((342, 287), (877, 393)), 'label': b'number_plate', 'confidence': 0.8723954558372498}
+
+data/obj/157.png
+Picname-157.png
+data/obj/157.png
+1
+{'box': ((356, 194), (587, 285)), 'label': b'number_plate', 'confidence': 0.8865125179290771}
+
+data/obj/158.png
+Picname-158.png
+data/obj/158.png
+1
+{'box': ((60, 125), (292, 223)), 'label': b'number_plate', 'confidence': 0.9262657761573792}
+
+data/obj/159.png
+Picname-159.png
+data/obj/159.png
+1
+{'box': ((88, 42), (355, 471)), 'label': b'number_plate', 'confidence': 0.9381672143936157}
+
+data/obj/16.png
+Picname-16.png
+data/obj/16.png
+1
+{'box': ((266, 338), (524, 433)), 'label': b'number_plate', 'confidence': 0.896926999092102}
+
+data/obj/160.png
+Picname-160.png
+data/obj/160.png
+1
+{'box': ((376, 228), (775, 498)), 'label': b'number_plate', 'confidence': 0.907444953918457}
+
+data/obj/161.png
+Picname-161.png
+data/obj/161.png
+1
+{'box': ((1029, 619), (1269, 672)), 'label': b'number_plate', 'confidence': 0.7763003706932068}
+
+data/obj/162.png
+Picname-162.png
+data/obj/162.png
+1
+{'box': ((259, 220), (321, 264)), 'label': b'number_plate', 'confidence': 0.7143586277961731}
+
+data/obj/163.png
+Picname-163.png
+data/obj/163.png
+1
+{'box': ((89, 17), (237, 60)), 'label': b'number_plate', 'confidence': 0.9286071062088013}
+
+data/obj/164.png
+Picname-164.png
+data/obj/164.png
+1
+{'box': ((334, 226), (510, 317)), 'label': b'number_plate', 'confidence': 0.9027842283248901}
+
+data/obj/165.png
+Picname-165.png
+data/obj/165.png
+1
+{'box': ((243, 368), (430, 432)), 'label': b'number_plate', 'confidence': 0.9103419780731201}
+
+data/obj/166.png
+Picname-166.png
+data/obj/166.png
+1
+{'box': ((110, 178), (313, 241)), 'label': b'number_plate', 'confidence': 0.8684369921684265}
+
+data/obj/167.png
+Picname-167.png
+data/obj/167.png
+1
+{'box': ((8, 38), (319, 152)), 'label': b'number_plate', 'confidence': 0.9628986120223999}
+
+data/obj/168.png
+Picname-168.png
+data/obj/168.png
+1
+{'box': ((291, 305), (584, 404)), 'label': b'number_plate', 'confidence': 0.9163858890533447}
+
+data/obj/169.png
+Picname-169.png
+data/obj/169.png
+1
+{'box': ((225, 139), (430, 198)), 'label': b'number_plate', 'confidence': 0.9033486843109131}
+
+data/obj/17.png
+Picname-17.png
+data/obj/17.png
+1
+{'box': ((305, 252), (489, 320)), 'label': b'number_plate', 'confidence': 0.9028312563896179}
+
+data/obj/170.png
+Picname-170.png
+data/obj/170.png
+1
+{'box': ((3, 55), (252, 212)), 'label': b'number_plate', 'confidence': 0.9108991026878357}
+
+data/obj/171.png
+Picname-171.png
+data/obj/171.png
+1
+{'box': ((500, 433), (1805, 1102)), 'label': b'number_plate', 'confidence': 0.9073445200920105}
+
+data/obj/172.png
+Picname-172.png
+data/obj/172.png
+1
+{'box': ((405, 673), (817, 786)), 'label': b'number_plate', 'confidence': 0.8697465658187866}
+
+data/obj/173.png
+Picname-173.png
+data/obj/173.png
+1
+{'box': ((39, 21), (474, 125)), 'label': b'number_plate', 'confidence': 0.9552124738693237}
+
+data/obj/174.png
+Picname-174.png
+data/obj/174.png
+1
+{'box': ((227, 122), (425, 183)), 'label': b'number_plate', 'confidence': 0.885309636592865}
+
+data/obj/175.png
+Picname-175.png
+data/obj/175.png
+1
+{'box': ((213, 78), (454, 164)), 'label': b'number_plate', 'confidence': 0.9426828026771545}
+
+data/obj/176.png
+Picname-176.png
+data/obj/176.png
+1
+{'box': ((125, 220), (485, 431)), 'label': b'number_plate', 'confidence': 0.9392520785331726}
+
+data/obj/177.png
+Picname-177.png
+data/obj/177.png
+1
+{'box': ((132, 178), (268, 229)), 'label': b'number_plate', 'confidence': 0.8881030082702637}
+
+data/obj/178.png
+Picname-178.png
+data/obj/178.png
+1
+{'box': ((38, 120), (105, 164)), 'label': b'number_plate', 'confidence': 0.8799355626106262}
+
+data/obj/179.png
+Picname-179.png
+data/obj/179.png
+1
+{'box': ((243, 261), (308, 322)), 'label': b'number_plate', 'confidence': 0.8423455953598022}
+
+data/obj/18.png
+Picname-18.png
+data/obj/18.png
+1
+{'box': ((54, 213), (191, 282)), 'label': b'number_plate', 'confidence': 0.9034155011177063}
+
+data/obj/180.png
+Picname-180.png
+data/obj/180.png
+1
+{'box': ((397, 452), (586, 508)), 'label': b'number_plate', 'confidence': 0.8743576407432556}
+
+data/obj/181.png
+Picname-181.png
+data/obj/181.png
+1
+{'box': ((217, 127), (488, 193)), 'label': b'number_plate', 'confidence': 0.8995214700698853}
+
+data/obj/182.png
+Picname-182.png
+data/obj/182.png
+1
+{'box': ((293, 249), (501, 321)), 'label': b'number_plate', 'confidence': 0.8801128268241882}
+
+data/obj/183.png
+Picname-183.png
+data/obj/183.png
+1
+{'box': ((184, 203), (249, 234)), 'label': b'number_plate', 'confidence': 0.8750254511833191}
+
+data/obj/184.png
+Picname-184.png
+data/obj/184.png
+1
+{'box': ((169, 259), (358, 300)), 'label': b'number_plate', 'confidence': 0.9040796756744385}
+
+data/obj/185.png
+Picname-185.png
+data/obj/185.png
+1
+{'box': ((100, 145), (263, 211)), 'label': b'number_plate', 'confidence': 0.9174005389213562}
+
+data/obj/186.png
+Picname-186.png
+data/obj/186.png
+1
+{'box': ((206, 270), (354, 327)), 'label': b'number_plate', 'confidence': 0.9120286703109741}
+
+data/obj/187.png
+Picname-187.png
+data/obj/187.png
+1
+{'box': ((200, 184), (406, 236)), 'label': b'number_plate', 'confidence': 0.8893804550170898}
+
+data/obj/188.png
+Picname-188.png
+data/obj/188.png
+1
+{'box': ((241, 177), (352, 224)), 'label': b'number_plate', 'confidence': 0.8774769306182861}
+
+data/obj/189.png
+Picname-189.png
+data/obj/189.png
+1
+{'box': ((794, 240), (1041, 305)), 'label': b'number_plate', 'confidence': 0.8893613815307617}
+
+data/obj/19.png
+Picname-19.png
+data/obj/19.png
+1
+{'box': ((340, 193), (431, 235)), 'label': b'number_plate', 'confidence': 0.8733711242675781}
+
+data/obj/190.png
+Picname-190.png
+data/obj/190.png
+1
+{'box': ((154, 192), (589, 371)), 'label': b'number_plate', 'confidence': 0.9076239466667175}
+
+data/obj/191.png
+Picname-191.png
+data/obj/191.png
+1
+{'box': ((119, 87), (225, 119)), 'label': b'number_plate', 'confidence': 0.8612393736839294}
+
+data/obj/192.png
+Picname-192.png
+data/obj/192.png
+1
+{'box': ((332, 928), (625, 1069)), 'label': b'number_plate', 'confidence': 0.880565345287323}
+
+data/obj/193.png
+Picname-193.png
+data/obj/193.png
+1
+{'box': ((537, 387), (770, 470)), 'label': b'number_plate', 'confidence': 0.880999743938446}
+
+data/obj/194.png
+Picname-194.png
+data/obj/194.png
+1
+{'box': ((14, 35), (239, 178)), 'label': b'number_plate', 'confidence': 0.9542537331581116}
+
+data/obj/195.png
+Picname-195.png
+data/obj/195.png
+1
+{'box': ((91, 100), (133, 127)), 'label': b'number_plate', 'confidence': 0.8538306355476379}
+
+data/obj/196.png
+Picname-196.png
+data/obj/196.png
+1
+{'box': ((73, 122), (199, 188)), 'label': b'number_plate', 'confidence': 0.891871452331543}
+
+data/obj/197.png
+Picname-197.png
+data/obj/197.png
+1
+{'box': ((158, 266), (343, 336)), 'label': b'number_plate', 'confidence': 0.9117244482040405}
+
+data/obj/198.png
+Picname-198.png
+data/obj/198.png
+1
+{'box': ((113, 124), (233, 194)), 'label': b'number_plate', 'confidence': 0.9017419815063477}
+
+data/obj/199.png
+Picname-199.png
+data/obj/199.png
+1
+{'box': ((198, 198), (275, 232)), 'label': b'number_plate', 'confidence': 0.8502392172813416}
+
+data/obj/2.png
+Picname-2.png
+data/obj/2.png
+1
+{'box': ((85, 381), (287, 444)), 'label': b'number_plate', 'confidence': 0.8935068249702454}
+
+data/obj/20.png
+Picname-20.png
+data/obj/20.png
+1
+{'box': ((245, 189), (757, 392)), 'label': b'number_plate', 'confidence': 0.9257537126541138}
+
+data/obj/200.png
+Picname-200.png
+data/obj/200.png
+1
+{'box': ((565, 203), (672, 250)), 'label': b'number_plate', 'confidence': 0.8373223543167114}
+
+data/obj/201.png
+Picname-201.png
+data/obj/201.png
+1
+{'box': ((17, 244), (101, 319)), 'label': b'number_plate', 'confidence': 0.8812729120254517}
+
+data/obj/202.png
+Picname-202.png
+data/obj/202.png
+1
+{'box': ((249, 184), (371, 238)), 'label': b'number_plate', 'confidence': 0.8739056587219238}
+
+data/obj/203.png
+Picname-203.png
+data/obj/203.png
+1
+{'box': ((86, 206), (414, 312)), 'label': b'number_plate', 'confidence': 0.9277967214584351}
+
+data/obj/204.png
+Picname-204.png
+data/obj/204.png
+1
+{'box': ((238, 225), (382, 310)), 'label': b'number_plate', 'confidence': 0.8644405603408813}
+
+data/obj/205.png
+Picname-205.png
+data/obj/205.png
+1
+{'box': ((155, 209), (286, 265)), 'label': b'number_plate', 'confidence': 0.888911783695221}
+
+data/obj/206.png
+Picname-206.png
+data/obj/206.png
+1
+{'box': ((95, 153), (268, 214)), 'label': b'number_plate', 'confidence': 0.8877900838851929}
+
+data/obj/207.png
+Picname-207.png
+data/obj/207.png
+1
+{'box': ((364, 168), (436, 199)), 'label': b'number_plate', 'confidence': 0.7992382645606995}
+
+data/obj/208.png
+Picname-208.png
+data/obj/208.png
+1
+{'box': ((136, 65), (449, 160)), 'label': b'number_plate', 'confidence': 0.8984017372131348}
+
+data/obj/209.png
+Picname-209.png
+data/obj/209.png
+1
+{'box': ((155, 196), (373, 261)), 'label': b'number_plate', 'confidence': 0.9017919301986694}
+
+data/obj/21.png
+Picname-21.png
+data/obj/21.png
+1
+{'box': ((145, 173), (350, 278)), 'label': b'number_plate', 'confidence': 0.9238435626029968}
+
+data/obj/210.png
+Picname-210.png
+data/obj/210.png
+1
+{'box': ((63, 220), (257, 288)), 'label': b'number_plate', 'confidence': 0.9040467143058777}
+
+data/obj/211.png
+Picname-211.png
+data/obj/211.png
+1
+{'box': ((129, 102), (405, 229)), 'label': b'number_plate', 'confidence': 0.9250171184539795}
+
+data/obj/212.png
+Picname-212.png
+data/obj/212.png
+1
+{'box': ((159, 86), (372, 162)), 'label': b'number_plate', 'confidence': 0.9103899598121643}
+
+data/obj/213.png
+Picname-213.png
+data/obj/213.png
+1
+{'box': ((152, 114), (346, 199)), 'label': b'number_plate', 'confidence': 0.849643886089325}
+
+data/obj/214.png
+Picname-214.png
+data/obj/214.png
+1
+{'box': ((129, 111), (401, 208)), 'label': b'number_plate', 'confidence': 0.9367263913154602}
+
+data/obj/215.png
+Picname-215.png
+data/obj/215.png
+1
+{'box': ((152, 241), (340, 324)), 'label': b'number_plate', 'confidence': 0.8854612112045288}
+
+data/obj/216.png
+Picname-216.png
+data/obj/216.png
+1
+{'box': ((187, 300), (380, 373)), 'label': b'number_plate', 'confidence': 0.8754355907440186}
+
+data/obj/217.png
+Picname-217.png
+data/obj/217.png
+1
+{'box': ((237, 100), (388, 165)), 'label': b'number_plate', 'confidence': 0.894947350025177}
+
+data/obj/218.png
+Picname-218.png
+data/obj/218.png
+1
+{'box': ((96, 110), (403, 214)), 'label': b'number_plate', 'confidence': 0.9165987372398376}
+
+data/obj/219.png
+Picname-219.png
+data/obj/219.png
+1
+{'box': ((188, 117), (374, 186)), 'label': b'number_plate', 'confidence': 0.9103752374649048}
+
+data/obj/22.png
+Picname-22.png
+data/obj/22.png
+1
+{'box': ((280, 4), (506, 69)), 'label': b'number_plate', 'confidence': 0.7776240110397339}
+
+data/obj/220.png
+Picname-220.png
+data/obj/220.png
+1
+{'box': ((139, 152), (322, 215)), 'label': b'number_plate', 'confidence': 0.8844684362411499}
+
+data/obj/221.png
+Picname-221.png
+data/obj/221.png
+1
+{'box': ((56, 186), (190, 241)), 'label': b'number_plate', 'confidence': 0.8949438333511353}
+
+data/obj/222.png
+Picname-222.png
+data/obj/222.png
+1
+{'box': ((95, 325), (295, 412)), 'label': b'number_plate', 'confidence': 0.9021791815757751}
+
+data/obj/223.png
+Picname-223.png
+data/obj/223.png
+1
+{'box': ((140, 223), (352, 275)), 'label': b'number_plate', 'confidence': 0.9016387462615967}
+
+data/obj/224.png
+Picname-224.png
+data/obj/224.png
+1
+{'box': ((133, 195), (346, 276)), 'label': b'number_plate', 'confidence': 0.9056217074394226}
+
+data/obj/225.png
+Picname-225.png
+data/obj/225.png
+1
+{'box': ((23, 36), (194, 107)), 'label': b'number_plate', 'confidence': 0.9251832365989685}
+
+data/obj/226.png
+Picname-226.png
+data/obj/226.png
+1
+{'box': ((141, 205), (407, 273)), 'label': b'number_plate', 'confidence': 0.9102930426597595}
+
+data/obj/227.png
+Picname-227.png
+data/obj/227.png
+1
+{'box': ((173, 92), (377, 160)), 'label': b'number_plate', 'confidence': 0.9033136367797852}
+
+data/obj/228.png
+Picname-228.png
+data/obj/228.png
+1
+{'box': ((109, 151), (210, 182)), 'label': b'number_plate', 'confidence': 0.8762404918670654}
+
+data/obj/229.png
+Picname-229.png
+data/obj/229.png
+1
+{'box': ((117, 105), (219, 155)), 'label': b'number_plate', 'confidence': 0.9077610969543457}
+
+data/obj/23.png
+Picname-23.png
+data/obj/23.png
+1
+{'box': ((253, 501), (483, 584)), 'label': b'number_plate', 'confidence': 0.8854260444641113}
+
+data/obj/230.png
+Picname-230.png
+data/obj/230.png
+1
+{'box': ((99, 140), (270, 193)), 'label': b'number_plate', 'confidence': 0.9159579277038574}
+
+data/obj/231.png
+Picname-231.png
+data/obj/231.png
+1
+{'box': ((132, 156), (332, 212)), 'label': b'number_plate', 'confidence': 0.9106643199920654}
+
+data/obj/232.png
+Picname-232.png
+data/obj/232.png
+1
+{'box': ((22, 118), (147, 170)), 'label': b'number_plate', 'confidence': 0.9119004607200623}
+
+data/obj/233.png
+Picname-233.png
+data/obj/233.png
+1
+{'box': ((175, 227), (356, 289)), 'label': b'number_plate', 'confidence': 0.883876383304596}
+
+data/obj/234.png
+Picname-234.png
+data/obj/234.png
+1
+{'box': ((175, 157), (318, 205)), 'label': b'number_plate', 'confidence': 0.884859025478363}
+
+data/obj/235.png
+Picname-235.png
+data/obj/235.png
+1
+{'box': ((174, 203), (306, 251)), 'label': b'number_plate', 'confidence': 0.9104474186897278}
+
+data/obj/236.png
+Picname-236.png
+data/obj/236.png
+1
+{'box': ((184, 203), (249, 234)), 'label': b'number_plate', 'confidence': 0.8750254511833191}
+
+data/obj/237.png
+Picname-237.png
+data/obj/237.png
+1
+{'box': ((26, 20), (352, 120)), 'label': b'number_plate', 'confidence': 0.9141185283660889}
+
+data/obj/24.png
+Picname-24.png
+data/obj/24.png
+1
+{'box': ((291, 417), (572, 492)), 'label': b'number_plate', 'confidence': 0.8710550665855408}
+
+data/obj/25.png
+Picname-25.png
+data/obj/25.png
+1
+{'box': ((167, 194), (427, 282)), 'label': b'number_plate', 'confidence': 0.9028864502906799}
+
+data/obj/26.png
+Picname-26.png
+data/obj/26.png
+1
+{'box': ((282, 178), (437, 222)), 'label': b'number_plate', 'confidence': 0.8974533081054688}
+
+data/obj/27.png
+Picname-27.png
+data/obj/27.png
+1
+{'box': ((192, 218), (446, 319)), 'label': b'number_plate', 'confidence': 0.9179067611694336}
+
+data/obj/28.png
+Picname-28.png
+data/obj/28.png
+1
+{'box': ((56, 181), (242, 298)), 'label': b'number_plate', 'confidence': 0.8966332077980042}
+
+data/obj/29.png
+Picname-29.png
+data/obj/29.png
+1
+{'box': ((315, 142), (2422, 611)), 'label': b'number_plate', 'confidence': 0.9083967208862305}
+
+data/obj/3.png
+Picname-3.png
+data/obj/3.png
+1
+{'box': ((42, 221), (117, 259)), 'label': b'number_plate', 'confidence': 0.8997032642364502}
+
+data/obj/30.png
+Picname-30.png
+data/obj/30.png
+1
+{'box': ((107, 50), (1543, 333)), 'label': b'number_plate', 'confidence': 0.9275277853012085}
+
+data/obj/31.png
+Picname-31.png
+data/obj/31.png
+1
+{'box': ((238, 173), (1474, 691)), 'label': b'number_plate', 'confidence': 0.9479396343231201}
+
+data/obj/32.png
+Picname-32.png
+data/obj/32.png
+1
+{'box': ((456, 271), (566, 355)), 'label': b'number_plate', 'confidence': 0.8586504459381104}
+
+data/obj/33.png
+Picname-33.png
+data/obj/33.png
+1
+{'box': ((110, 235), (282, 320)), 'label': b'number_plate', 'confidence': 0.9007415771484375}
+
+data/obj/34.png
+Picname-34.png
+data/obj/34.png
+1
+{'box': ((49, 350), (272, 418)), 'label': b'number_plate', 'confidence': 0.9149380922317505}
+
+data/obj/35.png
+Picname-35.png
+data/obj/35.png
+1
+{'box': ((1208, 963), (2531, 1356)), 'label': b'number_plate', 'confidence': 0.8538708686828613}
+
+data/obj/36.png
+Picname-36.png
+data/obj/36.png
+1
+{'box': ((325, 263), (541, 319)), 'label': b'number_plate', 'confidence': 0.8447796702384949}
+
+data/obj/37.png
+Picname-37.png
+data/obj/37.png
+1
+{'box': ((94, 96), (196, 137)), 'label': b'number_plate', 'confidence': 0.9196620583534241}
+
+data/obj/38.png
+Picname-38.png
+data/obj/38.png
+1
+{'box': ((122, 103), (190, 174)), 'label': b'number_plate', 'confidence': 0.8878383636474609}
+
+data/obj/39.png
+Picname-39.png
+data/obj/39.png
+1
+{'box': ((808, 495), (888, 519)), 'label': b'number_plate', 'confidence': 0.6661627292633057}
+
+data/obj/4.png
+Picname-4.png
+data/obj/4.png
+1
+{'box': ((207, 312), (361, 363)), 'label': b'number_plate', 'confidence': 0.8604005575180054}
+
+data/obj/40.png
+Picname-40.png
+data/obj/40.png
+1
+{'box': ((-6, 78), (314, 172)), 'label': b'number_plate', 'confidence': 0.9343574047088623}
+
+data/obj/41.png
+Picname-41.png
+data/obj/41.png
+1
+{'box': ((150, 178), (316, 262)), 'label': b'number_plate', 'confidence': 0.8844072818756104}
+
+data/obj/42.png
+Picname-42.png
+data/obj/42.png
+1
+{'box': ((152, 221), (344, 302)), 'label': b'number_plate', 'confidence': 0.9171918630599976}
+
+data/obj/43.png
+Picname-43.png
+data/obj/43.png
+1
+{'box': ((29, 260), (165, 328)), 'label': b'number_plate', 'confidence': 0.9059925675392151}
+
+data/obj/44.png
+Picname-44.png
+data/obj/44.png
+1
+{'box': ((31, 26), (474, 243)), 'label': b'number_plate', 'confidence': 0.9491243958473206}
+
+data/obj/45.png
+Picname-45.png
+data/obj/45.png
+1
+{'box': ((606, 466), (896, 530)), 'label': b'number_plate', 'confidence': 0.8528847694396973}
+
+data/obj/46.png
+Picname-46.png
+data/obj/46.png
+1
+{'box': ((407, 166), (526, 213)), 'label': b'number_plate', 'confidence': 0.8790106773376465}
+
+data/obj/47.png
+Picname-47.png
+data/obj/47.png
+1
+{'box': ((185, 273), (375, 356)), 'label': b'number_plate', 'confidence': 0.8927010297775269}
+
+data/obj/48.png
+Picname-48.png
+data/obj/48.png
+1
+{'box': ((400, 423), (588, 482)), 'label': b'number_plate', 'confidence': 0.8552928566932678}
+
+data/obj/49.png
+Picname-49.png
+data/obj/49.png
+1
+{'box': ((273, 284), (1145, 531)), 'label': b'number_plate', 'confidence': 0.9225943088531494}
+
+data/obj/5.png
+Picname-5.png
+data/obj/5.png
+1
+{'box': ((143, 223), (949, 545)), 'label': b'number_plate', 'confidence': 0.9350006580352783}
+
+data/obj/50.png
+Picname-50.png
+data/obj/50.png
+1
+{'box': ((112, 195), (211, 241)), 'label': b'number_plate', 'confidence': 0.903739333152771}
+
+data/obj/51.png
+Picname-51.png
+data/obj/51.png
+1
+{'box': ((445, 713), (663, 788)), 'label': b'number_plate', 'confidence': 0.8368831872940063}
+
+data/obj/52.png
+Picname-52.png
+data/obj/52.png
+1
+{'box': ((367, 199), (499, 264)), 'label': b'number_plate', 'confidence': 0.8969594836235046}
+
+data/obj/53.png
+Picname-53.png
+data/obj/53.png
+1
+{'box': ((44, 291), (192, 350)), 'label': b'number_plate', 'confidence': 0.8937718868255615}
+
+data/obj/54.png
+Picname-54.png
+data/obj/54.png
+1
+{'box': ((208, 154), (354, 194)), 'label': b'number_plate', 'confidence': 0.868627667427063}
+
+data/obj/55.png
+Picname-55.png
+data/obj/55.png
+1
+{'box': ((109, 228), (271, 287)), 'label': b'number_plate', 'confidence': 0.9180030822753906}
+
+data/obj/56.png
+Picname-56.png
+data/obj/56.png
+1
+{'box': ((273, 188), (438, 236)), 'label': b'number_plate', 'confidence': 0.875941812992096}
+
+data/obj/57.png
+Picname-57.png
+data/obj/57.png
+1
+{'box': ((395, 402), (514, 441)), 'label': b'number_plate', 'confidence': 0.7726419568061829}
+
+data/obj/58.png
+Picname-58.png
+data/obj/58.png
+1
+{'box': ((155, 186), (284, 231)), 'label': b'number_plate', 'confidence': 0.8363249897956848}
+
+data/obj/59.png
+Picname-59.png
+data/obj/59.png
+1
+{'box': ((103, 252), (302, 368)), 'label': b'number_plate', 'confidence': 0.9279044270515442}
+
+data/obj/6.png
+Picname-6.png
+data/obj/6.png
+1
+{'box': ((111, 275), (258, 338)), 'label': b'number_plate', 'confidence': 0.881544291973114}
+
+data/obj/60.png
+Picname-60.png
+data/obj/60.png
+1
+{'box': ((150, 231), (352, 328)), 'label': b'number_plate', 'confidence': 0.901454746723175}
+
+data/obj/61.png
+Picname-61.png
+data/obj/61.png
+1
+{'box': ((781, 728), (1119, 832)), 'label': b'number_plate', 'confidence': 0.8221392631530762}
+
+data/obj/62.png
+Picname-62.png
+data/obj/62.png
+1
+{'box': ((116, 208), (294, 265)), 'label': b'number_plate', 'confidence': 0.887843132019043}
+
+data/obj/63.png
+Picname-63.png
+data/obj/63.png
+1
+{'box': ((19, 26), (492, 222)), 'label': b'number_plate', 'confidence': 0.9285918474197388}
+
+data/obj/64.png
+Picname-64.png
+data/obj/64.png
+1
+{'box': ((36, 195), (190, 272)), 'label': b'number_plate', 'confidence': 0.9016919136047363}
+
+data/obj/65.png
+Picname-65.png
+data/obj/65.png
+1
+{'box': ((67, 129), (174, 191)), 'label': b'number_plate', 'confidence': 0.8922631144523621}
+
+data/obj/66.png
+Picname-66.png
+data/obj/66.png
+1
+{'box': ((26, 28), (233, 161)), 'label': b'number_plate', 'confidence': 0.9248839616775513}
+
+data/obj/67.png
+Picname-67.png
+data/obj/67.png
+1
+{'box': ((97, 132), (375, 282)), 'label': b'number_plate', 'confidence': 0.9127795696258545}
+
+data/obj/68.png
+Picname-68.png
+data/obj/68.png
+1
+{'box': ((49, 200), (108, 261)), 'label': b'number_plate', 'confidence': 0.8178836703300476}
+
+data/obj/69.png
+Picname-69.png
+data/obj/69.png
+1
+{'box': ((97, 295), (208, 344)), 'label': b'number_plate', 'confidence': 0.8328475952148438}
+
+data/obj/7.png
+Picname-7.png
+data/obj/7.png
+1
+{'box': ((223, 235), (447, 320)), 'label': b'number_plate', 'confidence': 0.9167039394378662}
+
+data/obj/70.png
+Picname-70.png
+data/obj/70.png
+1
+{'box': ((153, 203), (323, 262)), 'label': b'number_plate', 'confidence': 0.9152976870536804}
+
+data/obj/71.png
+Picname-71.png
+data/obj/71.png
+1
+{'box': ((173, 208), (299, 266)), 'label': b'number_plate', 'confidence': 0.9147080183029175}
+
+data/obj/72.png
+Picname-72.png
+data/obj/72.png
+1
+{'box': ((148, 244), (343, 314)), 'label': b'number_plate', 'confidence': 0.8922580480575562}
+
+data/obj/73.png
+Picname-73.png
+data/obj/73.png
+1
+{'box': ((140, 69), (386, 197)), 'label': b'number_plate', 'confidence': 0.9267044067382812}
+
+data/obj/74.png
+Picname-74.png
+data/obj/74.png
+1
+{'box': ((165, 182), (290, 229)), 'label': b'number_plate', 'confidence': 0.8724774718284607}
+
+data/obj/75.png
+Picname-75.png
+data/obj/75.png
+1
+{'box': ((158, 160), (346, 228)), 'label': b'number_plate', 'confidence': 0.9112240076065063}
+
+data/obj/76.png
+Picname-76.png
+data/obj/76.png
+1
+{'box': ((419, 142), (513, 184)), 'label': b'number_plate', 'confidence': 0.8826448917388916}
+
+data/obj/77.png
+Picname-77.png
+data/obj/77.png
+1
+{'box': ((143, 199), (328, 248)), 'label': b'number_plate', 'confidence': 0.8989763855934143}
+
+data/obj/78.png
+Picname-78.png
+data/obj/78.png
+1
+{'box': ((473, 101), (824, 252)), 'label': b'number_plate', 'confidence': 0.8518965840339661}
+
+data/obj/79.png
+Picname-79.png
+data/obj/79.png
+1
+{'box': ((155, 137), (298, 195)), 'label': b'number_plate', 'confidence': 0.9103925824165344}
+
+data/obj/8.png
+Picname-8.png
+data/obj/8.png
+1
+{'box': ((265, 245), (395, 317)), 'label': b'number_plate', 'confidence': 0.9122049808502197}
+
+data/obj/80.png
+Picname-80.png
+data/obj/80.png
+1
+{'box': ((549, 454), (846, 543)), 'label': b'number_plate', 'confidence': 0.9088432788848877}
+
+data/obj/81.png
+Picname-81.png
+data/obj/81.png
+1
+{'box': ((57, 131), (361, 254)), 'label': b'number_plate', 'confidence': 0.8837876915931702}
+
+data/obj/82.png
+Picname-82.png
+data/obj/82.png
+1
+{'box': ((329, 299), (468, 373)), 'label': b'number_plate', 'confidence': 0.9096952676773071}
+
+data/obj/83.png
+Picname-83.png
+data/obj/83.png
+1
+{'box': ((66, 45), (398, 216)), 'label': b'number_plate', 'confidence': 0.796238899230957}
+
+data/obj/84.png
+Picname-84.png
+data/obj/84.png
+1
+{'box': ((205, 130), (342, 179)), 'label': b'number_plate', 'confidence': 0.8989089727401733}
+
+data/obj/85.png
+Picname-85.png
+data/obj/85.png
+1
+{'box': ((101, 205), (259, 278)), 'label': b'number_plate', 'confidence': 0.9128034114837646}
+
+data/obj/86.png
+Picname-86.png
+data/obj/86.png
+1
+{'box': ((152, 229), (360, 320)), 'label': b'number_plate', 'confidence': 0.9103029370307922}
+
+data/obj/87.png
+Picname-87.png
+data/obj/87.png
+1
+{'box': ((199, 179), (363, 262)), 'label': b'number_plate', 'confidence': 0.8983258008956909}
+
+data/obj/88.png
+Picname-88.png
+data/obj/88.png
+1
+{'box': ((806, 652), (1064, 732)), 'label': b'number_plate', 'confidence': 0.8306778073310852}
+
+data/obj/89.png
+Picname-89.png
+data/obj/89.png
+1
+{'box': ((1015, 564), (1440, 750)), 'label': b'number_plate', 'confidence': 0.9147061705589294}
+
+data/obj/9.png
+Picname-9.png
+data/obj/9.png
+1
+{'box': ((652, 502), (880, 576)), 'label': b'number_plate', 'confidence': 0.8664565682411194}
+
+data/obj/90.png
+Picname-90.png
+data/obj/90.png
+1
+{'box': ((837, 802), (1588, 984)), 'label': b'number_plate', 'confidence': 0.923494815826416}
+
+data/obj/91.png
+Picname-91.png
+data/obj/91.png
+1
+{'box': ((315, 103), (386, 146)), 'label': b'number_plate', 'confidence': 0.8473907113075256}
+
+data/obj/92.png
+Picname-92.png
+data/obj/92.png
+1
+{'box': ((607, 286), (787, 352)), 'label': b'number_plate', 'confidence': 0.8807235956192017}
+
+data/obj/93.png
+Picname-93.png
+data/obj/93.png
+1
+{'box': ((158, 352), (299, 423)), 'label': b'number_plate', 'confidence': 0.8865891695022583}
+
+data/obj/94.png
+Picname-94.png
+data/obj/94.png
+1
+{'box': ((58, 144), (168, 208)), 'label': b'number_plate', 'confidence': 0.8982595205307007}
+
+data/obj/95.png
+Picname-95.png
+data/obj/95.png
+1
+{'box': ((294, 214), (446, 261)), 'label': b'number_plate', 'confidence': 0.8846043944358826}
+
+data/obj/96.png
+Picname-96.png
+data/obj/96.png
+1
+{'box': ((318, 410), (666, 533)), 'label': b'number_plate', 'confidence': 0.8877530694007874}
+
+data/obj/97.png
+Picname-97.png
+data/obj/97.png
+1
+{'box': ((318, 190), (598, 272)), 'label': b'number_plate', 'confidence': 0.9112659692764282}
+
+data/obj/98.png
+Picname-98.png
+data/obj/98.png
+1
+{'box': ((123, 110), (222, 175)), 'label': b'number_plate', 'confidence': 0.9109668135643005}
+
+data/obj/99.png
+Picname-99.png
+data/obj/99.png
+1
+{'box': ((19, 65), (223, 150)), 'label': b'number_plate', 'confidence': 0.8947025537490845}
+
+
+ seen 64 
+Loaded - names_list: /home/spandan/humain/darknet/cfg/obj.names, classes = 1 
+ Try to load cfg: cfg/yolo-voc.2.0.cfg, weights: ./backup/yolo-voc_final.weights, clear = 0 
+
+ reorg_old 
+data/obj/1.png
+Picname-1.png
+data/obj/1.png
+1
+{'box': ((587, 271), (700, 321)), 'label': b'number_plate', 'confidence': 0.8109698295593262}
+
+data/obj/10.png
+Picname-10.png
+data/obj/10.png
+1
+{'box': ((694, 350), (967, 580)), 'label': b'number_plate', 'confidence': 0.8931399583816528}
+
+data/obj/100.png
+Picname-100.png
+data/obj/100.png
+1
+{'box': ((105, 112), (257, 196)), 'label': b'number_plate', 'confidence': 0.9029948115348816}
+
+data/obj/101.png
+Picname-101.png
+data/obj/101.png
+1
+{'box': ((27, 51), (227, 164)), 'label': b'number_plate', 'confidence': 0.9465288519859314}
+
+data/obj/102.png
+Picname-102.png
+data/obj/102.png
+1
+{'box': ((15, 59), (234, 152)), 'label': b'number_plate', 'confidence': 0.9563860893249512}
+
+data/obj/103.png
+Picname-103.png
+data/obj/103.png
+1
+{'box': ((122, 72), (367, 203)), 'label': b'number_plate', 'confidence': 0.9582653641700745}
+
+data/obj/104.png
+Picname-104.png
+data/obj/104.png
+1
+{'box': ((117, 175), (2479, 737)), 'label': b'number_plate', 'confidence': 0.9205394983291626}
+
+data/obj/105.png
+Picname-105.png
+data/obj/105.png
+1
+{'box': ((316, 183), (457, 220)), 'label': b'number_plate', 'confidence': 0.8654817938804626}
+
+data/obj/106.png
+Picname-106.png
+data/obj/106.png
+1
+{'box': ((-26, 99), (759, 406)), 'label': b'number_plate', 'confidence': 0.9424229860305786}
+
+data/obj/107.png
+Picname-107.png
+data/obj/107.png
+1
+{'box': ((228, 183), (323, 247)), 'label': b'number_plate', 'confidence': 0.8554218411445618}
+
+data/obj/108.png
+Picname-108.png
+data/obj/108.png
+1
+{'box': ((20, 33), (335, 192)), 'label': b'number_plate', 'confidence': 0.9472103714942932}
+
+data/obj/109.png
+Picname-109.png
+data/obj/109.png
+1
+{'box': ((38, 39), (576, 340)), 'label': b'number_plate', 'confidence': 0.9602369666099548}
+
+data/obj/11.png
+Picname-11.png
+data/obj/11.png
+1
+{'box': ((199, 137), (419, 221)), 'label': b'number_plate', 'confidence': 0.9087432622909546}
+
+data/obj/110.png
+Picname-110.png
+data/obj/110.png
+1
+{'box': ((19, 85), (435, 188)), 'label': b'number_plate', 'confidence': 0.8924483060836792}
+
+data/obj/111.png
+Picname-111.png
+data/obj/111.png
+1
+{'box': ((-9, 170), (444, 396)), 'label': b'number_plate', 'confidence': 0.9058511853218079}
+
+data/obj/112.png
+Picname-112.png
+data/obj/112.png
+1
+{'box': ((-8, 182), (795, 318)), 'label': b'number_plate', 'confidence': 0.9125288724899292}
+
+data/obj/113.png
+Picname-113.png
+data/obj/113.png
+1
+{'box': ((50, 74), (470, 337)), 'label': b'number_plate', 'confidence': 0.9395358562469482}
+
+data/obj/114.png
+Picname-114.png
+data/obj/114.png
+1
+{'box': ((-11, 118), (515, 297)), 'label': b'number_plate', 'confidence': 0.9025343656539917}
+
+data/obj/115.png
+Picname-115.png
+data/obj/115.png
+1
+{'box': ((189, 345), (385, 422)), 'label': b'number_plate', 'confidence': 0.8961893320083618}
+
+data/obj/116.png
+Picname-116.png
+data/obj/116.png
+1
+{'box': ((34, 70), (626, 194)), 'label': b'number_plate', 'confidence': 0.8978172540664673}
+
+data/obj/117.png
+Picname-117.png
+data/obj/117.png
+1
+{'box': ((110, 121), (543, 337)), 'label': b'number_plate', 'confidence': 0.9227166175842285}
+
+data/obj/118.png
+Picname-118.png
+data/obj/118.png
+1
+{'box': ((157, 114), (434, 250)), 'label': b'number_plate', 'confidence': 0.9085198044776917}
+
+data/obj/119.png
+Picname-119.png
+data/obj/119.png
+1
+{'box': ((122, 131), (331, 243)), 'label': b'number_plate', 'confidence': 0.9206852912902832}
+
+data/obj/12.png
+Picname-12.png
+data/obj/12.png
+1
+{'box': ((354, 381), (501, 431)), 'label': b'number_plate', 'confidence': 0.8441060781478882}
+
+data/obj/120.png
+Picname-120.png
+data/obj/120.png
+1
+{'box': ((-36, 60), (503, 168)), 'label': b'number_plate', 'confidence': 0.8837940692901611}
+
+data/obj/121.png
+Picname-121.png
+data/obj/121.png
+1
+{'box': ((130, 149), (373, 223)), 'label': b'number_plate', 'confidence': 0.9110329747200012}
+
+data/obj/122.png
+Picname-122.png
+data/obj/122.png
+1
+{'box': ((-22, 36), (470, 129)), 'label': b'number_plate', 'confidence': 0.9145875573158264}
+
+data/obj/123.png
+Picname-123.png
+data/obj/123.png
+1
+{'box': ((-16, 34), (239, 128)), 'label': b'number_plate', 'confidence': 0.9246991872787476}
+
+data/obj/124.png
+Picname-124.png
+data/obj/124.png
+1
+{'box': ((264, 325), (500, 409)), 'label': b'number_plate', 'confidence': 0.9059469103813171}
+
+data/obj/125.png
+Picname-125.png
+data/obj/125.png
+1
+{'box': ((133, 113), (319, 201)), 'label': b'number_plate', 'confidence': 0.9282801747322083}
+
+data/obj/126.png
+Picname-126.png
+data/obj/126.png
+1
+{'box': ((168, 96), (348, 166)), 'label': b'number_plate', 'confidence': 0.8980962038040161}
+
+data/obj/127.png
+Picname-127.png
+data/obj/127.png
+1
+{'box': ((434, 248), (640, 355)), 'label': b'number_plate', 'confidence': 0.9032557010650635}
+
+data/obj/128.png
+Picname-128.png
+data/obj/128.png
+1
+{'box': ((206, 49), (572, 215)), 'label': b'number_plate', 'confidence': 0.9328957200050354}
+
+data/obj/129.png
+Picname-129.png
+data/obj/129.png
+1
+{'box': ((158, 92), (298, 157)), 'label': b'number_plate', 'confidence': 0.9124037027359009}
+
+data/obj/13.png
+Picname-13.png
+data/obj/13.png
+1
+{'box': ((220, 184), (433, 240)), 'label': b'number_plate', 'confidence': 0.888751745223999}
+
+data/obj/130.png
+Picname-130.png
+data/obj/130.png
+1
+{'box': ((135, 134), (376, 211)), 'label': b'number_plate', 'confidence': 0.8998456597328186}
+
+data/obj/131.png
+Picname-131.png
+data/obj/131.png
+1
+{'box': ((24, 12), (478, 113)), 'label': b'number_plate', 'confidence': 0.9434232115745544}
+
+data/obj/132.png
+Picname-132.png
+data/obj/132.png
+1
+{'box': ((225, 178), (377, 231)), 'label': b'number_plate', 'confidence': 0.9006586074829102}
+
+data/obj/133.png
+Picname-133.png
+data/obj/133.png
+1
+{'box': ((206, 199), (303, 256)), 'label': b'number_plate', 'confidence': 0.85335373878479}
+
+data/obj/134.png
+Picname-134.png
+data/obj/134.png
+1
+{'box': ((199, 269), (357, 381)), 'label': b'number_plate', 'confidence': 0.8739895820617676}
+
+data/obj/135.png
+Picname-135.png
+data/obj/135.png
+1
+{'box': ((95, 153), (268, 214)), 'label': b'number_plate', 'confidence': 0.8877900838851929}
+
+data/obj/136.png
+Picname-136.png
+data/obj/136.png
+1
+{'box': ((130, 281), (307, 323)), 'label': b'number_plate', 'confidence': 0.8994053602218628}
+
+data/obj/137.png
+Picname-137.png
+data/obj/137.png
+1
+{'box': ((158, 197), (324, 280)), 'label': b'number_plate', 'confidence': 0.9077073931694031}
+
+data/obj/138.png
+Picname-138.png
+data/obj/138.png
+1
+{'box': ((180, 263), (389, 334)), 'label': b'number_plate', 'confidence': 0.8999930024147034}
+
+data/obj/139.png
+Picname-139.png
+data/obj/139.png
+1
+{'box': ((127, 287), (306, 367)), 'label': b'number_plate', 'confidence': 0.8987787365913391}
+
+data/obj/14.png
+Picname-14.png
+data/obj/14.png
+1
+{'box': ((101, 215), (244, 343)), 'label': b'number_plate', 'confidence': 0.9041457176208496}
+
+data/obj/140.png
+Picname-140.png
+data/obj/140.png
+1
+{'box': ((25, 206), (150, 254)), 'label': b'number_plate', 'confidence': 0.9044581651687622}
+
+data/obj/141.png
+Picname-141.png
+data/obj/141.png
+1
+{'box': ((220, 152), (314, 189)), 'label': b'number_plate', 'confidence': 0.9043946862220764}
+
+data/obj/142.png
+Picname-142.png
+data/obj/142.png
+1
+{'box': ((153, 133), (392, 194)), 'label': b'number_plate', 'confidence': 0.8896227478981018}
+
+data/obj/143.png
+Picname-143.png
+data/obj/143.png
+1
+{'box': ((641, 341), (741, 380)), 'label': b'number_plate', 'confidence': 0.780292272567749}
+
+data/obj/144.png
+Picname-144.png
+data/obj/144.png
+1
+{'box': ((180, 200), (352, 278)), 'label': b'number_plate', 'confidence': 0.9030987620353699}
+
+data/obj/145.png
+Picname-145.png
+data/obj/145.png
+1
+{'box': ((104, 183), (449, 282)), 'label': b'number_plate', 'confidence': 0.8835593461990356}
+
+data/obj/146.png
+Picname-146.png
+data/obj/146.png
+1
+{'box': ((307, 274), (714, 388)), 'label': b'number_plate', 'confidence': 0.8811931014060974}
+
+data/obj/147.png
+Picname-147.png
+data/obj/147.png
+1
+{'box': ((190, 122), (358, 184)), 'label': b'number_plate', 'confidence': 0.8887307643890381}
+
+data/obj/148.png
+Picname-148.png
+data/obj/148.png
+1
+{'box': ((164, 228), (313, 273)), 'label': b'number_plate', 'confidence': 0.8833054900169373}
+
+data/obj/149.png
+Picname-149.png
+data/obj/149.png
+1
+{'box': ((118, 259), (408, 330)), 'label': b'number_plate', 'confidence': 0.9085191488265991}
+
+data/obj/15.png
+Picname-15.png
+data/obj/15.png
+1
+{'box': ((148, 97), (359, 185)), 'label': b'number_plate', 'confidence': 0.9113322496414185}
+
+data/obj/150.png
+Picname-150.png
+data/obj/150.png
+1
+{'box': ((177, 260), (350, 325)), 'label': b'number_plate', 'confidence': 0.8978309035301208}
+
+data/obj/151.png
+Picname-151.png
+data/obj/151.png
+1
+{'box': ((141, 240), (342, 315)), 'label': b'number_plate', 'confidence': 0.8947872519493103}
+
+data/obj/152.png
+Picname-152.png
+data/obj/152.png
+1
+{'box': ((95, 95), (194, 144)), 'label': b'number_plate', 'confidence': 0.9289012551307678}
+
+data/obj/153.png
+Picname-153.png
+data/obj/153.png
+1
+{'box': ((118, 261), (233, 299)), 'label': b'number_plate', 'confidence': 0.8808788657188416}
+
+data/obj/154.png
+Picname-154.png
+data/obj/154.png
+1
+{'box': ((98, 137), (177, 170)), 'label': b'number_plate', 'confidence': 0.8829153180122375}
+
+data/obj/155.png
+Picname-155.png
+data/obj/155.png
+1
+{'box': ((189, 213), (397, 299)), 'label': b'number_plate', 'confidence': 0.8983697891235352}
+
+data/obj/156.png
+Picname-156.png
+data/obj/156.png
+1
+{'box': ((342, 287), (877, 393)), 'label': b'number_plate', 'confidence': 0.8723954558372498}
+
+data/obj/157.png
+Picname-157.png
+data/obj/157.png
+1
+{'box': ((356, 194), (587, 285)), 'label': b'number_plate', 'confidence': 0.8865125179290771}
+
+data/obj/158.png
+Picname-158.png
+data/obj/158.png
+1
+{'box': ((60, 125), (292, 223)), 'label': b'number_plate', 'confidence': 0.9262657761573792}
+
+data/obj/159.png
+Picname-159.png
+data/obj/159.png
+1
+{'box': ((88, 42), (355, 471)), 'label': b'number_plate', 'confidence': 0.9381672143936157}
+
+data/obj/16.png
+Picname-16.png
+data/obj/16.png
+1
+{'box': ((266, 338), (524, 433)), 'label': b'number_plate', 'confidence': 0.896926999092102}
+
+data/obj/160.png
+Picname-160.png
+data/obj/160.png
+1
+{'box': ((376, 228), (775, 498)), 'label': b'number_plate', 'confidence': 0.907444953918457}
+
+data/obj/161.png
+Picname-161.png
+data/obj/161.png
+1
+{'box': ((1029, 619), (1269, 672)), 'label': b'number_plate', 'confidence': 0.7763003706932068}
+
+data/obj/162.png
+Picname-162.png
+data/obj/162.png
+1
+{'box': ((259, 220), (321, 264)), 'label': b'number_plate', 'confidence': 0.7143586277961731}
+
+data/obj/163.png
+Picname-163.png
+data/obj/163.png
+1
+{'box': ((89, 17), (237, 60)), 'label': b'number_plate', 'confidence': 0.9286071062088013}
+
+data/obj/164.png
+Picname-164.png
+data/obj/164.png
+1
+{'box': ((334, 226), (510, 317)), 'label': b'number_plate', 'confidence': 0.9027842283248901}
+
+data/obj/165.png
+Picname-165.png
+data/obj/165.png
+1
+{'box': ((243, 368), (430, 432)), 'label': b'number_plate', 'confidence': 0.9103419780731201}
+
+data/obj/166.png
+Picname-166.png
+data/obj/166.png
+1
+{'box': ((110, 178), (313, 241)), 'label': b'number_plate', 'confidence': 0.8684369921684265}
+
+data/obj/167.png
+Picname-167.png
+data/obj/167.png
+1
+{'box': ((8, 38), (319, 152)), 'label': b'number_plate', 'confidence': 0.9628986120223999}
+
+data/obj/168.png
+Picname-168.png
+data/obj/168.png
+1
+{'box': ((291, 305), (584, 404)), 'label': b'number_plate', 'confidence': 0.9163858890533447}
+
+data/obj/169.png
+Picname-169.png
+data/obj/169.png
+1
+{'box': ((225, 139), (430, 198)), 'label': b'number_plate', 'confidence': 0.9033486843109131}
+
+data/obj/17.png
+Picname-17.png
+data/obj/17.png
+1
+{'box': ((305, 252), (489, 320)), 'label': b'number_plate', 'confidence': 0.9028312563896179}
+
+data/obj/170.png
+Picname-170.png
+data/obj/170.png
+1
+{'box': ((3, 55), (252, 212)), 'label': b'number_plate', 'confidence': 0.9108991026878357}
+
+data/obj/171.png
+Picname-171.png
+data/obj/171.png
+1
+{'box': ((500, 433), (1805, 1102)), 'label': b'number_plate', 'confidence': 0.9073445200920105}
+
+data/obj/172.png
+Picname-172.png
+data/obj/172.png
+1
+{'box': ((405, 673), (817, 786)), 'label': b'number_plate', 'confidence': 0.8697465658187866}
+
+data/obj/173.png
+Picname-173.png
+data/obj/173.png
+1
+{'box': ((39, 21), (474, 125)), 'label': b'number_plate', 'confidence': 0.9552124738693237}
+
+data/obj/174.png
+Picname-174.png
+data/obj/174.png
+1
+{'box': ((227, 122), (425, 183)), 'label': b'number_plate', 'confidence': 0.885309636592865}
+
+data/obj/175.png
+Picname-175.png
+data/obj/175.png
+1
+{'box': ((213, 78), (454, 164)), 'label': b'number_plate', 'confidence': 0.9426828026771545}
+
+data/obj/176.png
+Picname-176.png
+data/obj/176.png
+1
+{'box': ((125, 220), (485, 431)), 'label': b'number_plate', 'confidence': 0.9392520785331726}
+
+data/obj/177.png
+Picname-177.png
+data/obj/177.png
+1
+{'box': ((132, 178), (268, 229)), 'label': b'number_plate', 'confidence': 0.8881030082702637}
+
+data/obj/178.png
+Picname-178.png
+data/obj/178.png
+1
+{'box': ((38, 120), (105, 164)), 'label': b'number_plate', 'confidence': 0.8799355626106262}
+
+data/obj/179.png
+Picname-179.png
+data/obj/179.png
+1
+{'box': ((243, 261), (308, 322)), 'label': b'number_plate', 'confidence': 0.8423455953598022}
+
+data/obj/18.png
+Picname-18.png
+data/obj/18.png
+1
+{'box': ((54, 213), (191, 282)), 'label': b'number_plate', 'confidence': 0.9034155011177063}
+
+data/obj/180.png
+Picname-180.png
+data/obj/180.png
+1
+{'box': ((397, 452), (586, 508)), 'label': b'number_plate', 'confidence': 0.8743576407432556}
+
+data/obj/181.png
+Picname-181.png
+data/obj/181.png
+1
+{'box': ((217, 127), (488, 193)), 'label': b'number_plate', 'confidence': 0.8995214700698853}
+
+data/obj/182.png
+Picname-182.png
+data/obj/182.png
+1
+{'box': ((293, 249), (501, 321)), 'label': b'number_plate', 'confidence': 0.8801128268241882}
+
+data/obj/183.png
+Picname-183.png
+data/obj/183.png
+1
+{'box': ((184, 203), (249, 234)), 'label': b'number_plate', 'confidence': 0.8750254511833191}
+
+data/obj/184.png
+Picname-184.png
+data/obj/184.png
+1
+{'box': ((169, 259), (358, 300)), 'label': b'number_plate', 'confidence': 0.9040796756744385}
+
+data/obj/185.png
+Picname-185.png
+data/obj/185.png
+1
+{'box': ((100, 145), (263, 211)), 'label': b'number_plate', 'confidence': 0.9174005389213562}
+
+data/obj/186.png
+Picname-186.png
+data/obj/186.png
+1
+{'box': ((206, 270), (354, 327)), 'label': b'number_plate', 'confidence': 0.9120286703109741}
+
+data/obj/187.png
+Picname-187.png
+data/obj/187.png
+1
+{'box': ((200, 184), (406, 236)), 'label': b'number_plate', 'confidence': 0.8893804550170898}
+
+data/obj/188.png
+Picname-188.png
+data/obj/188.png
+1
+{'box': ((241, 177), (352, 224)), 'label': b'number_plate', 'confidence': 0.8774769306182861}
+
+data/obj/189.png
+Picname-189.png
+data/obj/189.png
+1
+{'box': ((794, 240), (1041, 305)), 'label': b'number_plate', 'confidence': 0.8893613815307617}
+
+data/obj/19.png
+Picname-19.png
+data/obj/19.png
+1
+{'box': ((340, 193), (431, 235)), 'label': b'number_plate', 'confidence': 0.8733711242675781}
+
+data/obj/190.png
+Picname-190.png
+data/obj/190.png
+1
+{'box': ((154, 192), (589, 371)), 'label': b'number_plate', 'confidence': 0.9076239466667175}
+
+data/obj/191.png
+Picname-191.png
+data/obj/191.png
+1
+{'box': ((119, 87), (225, 119)), 'label': b'number_plate', 'confidence': 0.8612393736839294}
+
+data/obj/192.png
+Picname-192.png
+data/obj/192.png
+1
+{'box': ((332, 928), (625, 1069)), 'label': b'number_plate', 'confidence': 0.880565345287323}
+
+data/obj/193.png
+Picname-193.png
+data/obj/193.png
+1
+{'box': ((537, 387), (770, 470)), 'label': b'number_plate', 'confidence': 0.880999743938446}
+
+data/obj/194.png
+Picname-194.png
+data/obj/194.png
+1
+{'box': ((14, 35), (239, 178)), 'label': b'number_plate', 'confidence': 0.9542537331581116}
+
+data/obj/195.png
+Picname-195.png
+data/obj/195.png
+1
+{'box': ((91, 100), (133, 127)), 'label': b'number_plate', 'confidence': 0.8538306355476379}
+
+data/obj/196.png
+Picname-196.png
+data/obj/196.png
+1
+{'box': ((73, 122), (199, 188)), 'label': b'number_plate', 'confidence': 0.891871452331543}
+
+data/obj/197.png
+Picname-197.png
+data/obj/197.png
+1
+{'box': ((158, 266), (343, 336)), 'label': b'number_plate', 'confidence': 0.9117244482040405}
+
+data/obj/198.png
+Picname-198.png
+data/obj/198.png
+1
+{'box': ((113, 124), (233, 194)), 'label': b'number_plate', 'confidence': 0.9017419815063477}
+
+data/obj/199.png
+Picname-199.png
+data/obj/199.png
+1
+{'box': ((198, 198), (275, 232)), 'label': b'number_plate', 'confidence': 0.8502392172813416}
+
+data/obj/2.png
+Picname-2.png
+data/obj/2.png
+1
+{'box': ((85, 381), (287, 444)), 'label': b'number_plate', 'confidence': 0.8935068249702454}
+
+data/obj/20.png
+Picname-20.png
+data/obj/20.png
+1
+{'box': ((245, 189), (757, 392)), 'label': b'number_plate', 'confidence': 0.9257537126541138}
+
+data/obj/200.png
+Picname-200.png
+data/obj/200.png
+1
+{'box': ((565, 203), (672, 250)), 'label': b'number_plate', 'confidence': 0.8373223543167114}
+
+data/obj/201.png
+Picname-201.png
+data/obj/201.png
+1
+{'box': ((17, 244), (101, 319)), 'label': b'number_plate', 'confidence': 0.8812729120254517}
+
+data/obj/202.png
+Picname-202.png
+data/obj/202.png
+1
+{'box': ((249, 184), (371, 238)), 'label': b'number_plate', 'confidence': 0.8739056587219238}
+
+data/obj/203.png
+Picname-203.png
+data/obj/203.png
+1
+{'box': ((86, 206), (414, 312)), 'label': b'number_plate', 'confidence': 0.9277967214584351}
+
+data/obj/204.png
+Picname-204.png
+data/obj/204.png
+1
+{'box': ((238, 225), (382, 310)), 'label': b'number_plate', 'confidence': 0.8644405603408813}
+
+data/obj/205.png
+Picname-205.png
+data/obj/205.png
+1
+{'box': ((155, 209), (286, 265)), 'label': b'number_plate', 'confidence': 0.888911783695221}
+
+data/obj/206.png
+Picname-206.png
+data/obj/206.png
+1
+{'box': ((95, 153), (268, 214)), 'label': b'number_plate', 'confidence': 0.8877900838851929}
+
+data/obj/207.png
+Picname-207.png
+data/obj/207.png
+1
+{'box': ((364, 168), (436, 199)), 'label': b'number_plate', 'confidence': 0.7992382645606995}
+
+data/obj/208.png
+Picname-208.png
+data/obj/208.png
+1
+{'box': ((136, 65), (449, 160)), 'label': b'number_plate', 'confidence': 0.8984017372131348}
+
+data/obj/209.png
+Picname-209.png
+data/obj/209.png
+1
+{'box': ((155, 196), (373, 261)), 'label': b'number_plate', 'confidence': 0.9017919301986694}
+
+data/obj/21.png
+Picname-21.png
+data/obj/21.png
+1
+{'box': ((145, 173), (350, 278)), 'label': b'number_plate', 'confidence': 0.9238435626029968}
+
+data/obj/210.png
+Picname-210.png
+data/obj/210.png
+1
+{'box': ((63, 220), (257, 288)), 'label': b'number_plate', 'confidence': 0.9040467143058777}
+
+data/obj/211.png
+Picname-211.png
+data/obj/211.png
+1
+{'box': ((129, 102), (405, 229)), 'label': b'number_plate', 'confidence': 0.9250171184539795}
+
+data/obj/212.png
+Picname-212.png
+data/obj/212.png
+1
+{'box': ((159, 86), (372, 162)), 'label': b'number_plate', 'confidence': 0.9103899598121643}
+
+data/obj/213.png
+Picname-213.png
+data/obj/213.png
+1
+{'box': ((152, 114), (346, 199)), 'label': b'number_plate', 'confidence': 0.849643886089325}
+
+data/obj/214.png
+Picname-214.png
+data/obj/214.png
+1
+{'box': ((129, 111), (401, 208)), 'label': b'number_plate', 'confidence': 0.9367263913154602}
+
+data/obj/215.png
+Picname-215.png
+data/obj/215.png
+1
+{'box': ((152, 241), (340, 324)), 'label': b'number_plate', 'confidence': 0.8854612112045288}
+
+data/obj/216.png
+Picname-216.png
+data/obj/216.png
+1
+{'box': ((187, 300), (380, 373)), 'label': b'number_plate', 'confidence': 0.8754355907440186}
+
+data/obj/217.png
+Picname-217.png
+data/obj/217.png
+1
+{'box': ((237, 100), (388, 165)), 'label': b'number_plate', 'confidence': 0.894947350025177}
+
+data/obj/218.png
+Picname-218.png
+data/obj/218.png
+1
+{'box': ((96, 110), (403, 214)), 'label': b'number_plate', 'confidence': 0.9165987372398376}
+
+data/obj/219.png
+Picname-219.png
+data/obj/219.png
+1
+{'box': ((188, 117), (374, 186)), 'label': b'number_plate', 'confidence': 0.9103752374649048}
+
+data/obj/22.png
+Picname-22.png
+data/obj/22.png
+1
+{'box': ((280, 4), (506, 69)), 'label': b'number_plate', 'confidence': 0.7776240110397339}
+
+data/obj/220.png
+Picname-220.png
+data/obj/220.png
+1
+{'box': ((139, 152), (322, 215)), 'label': b'number_plate', 'confidence': 0.8844684362411499}
+
+data/obj/221.png
+Picname-221.png
+data/obj/221.png
+1
+{'box': ((56, 186), (190, 241)), 'label': b'number_plate', 'confidence': 0.8949438333511353}
+
+data/obj/222.png
+Picname-222.png
+data/obj/222.png
+1
+{'box': ((95, 325), (295, 412)), 'label': b'number_plate', 'confidence': 0.9021791815757751}
+
+data/obj/223.png
+Picname-223.png
+data/obj/223.png
+1
+{'box': ((140, 223), (352, 275)), 'label': b'number_plate', 'confidence': 0.9016387462615967}
+
+data/obj/224.png
+Picname-224.png
+data/obj/224.png
+1
+{'box': ((133, 195), (346, 276)), 'label': b'number_plate', 'confidence': 0.9056217074394226}
+
+data/obj/225.png
+Picname-225.png
+data/obj/225.png
+1
+{'box': ((23, 36), (194, 107)), 'label': b'number_plate', 'confidence': 0.9251832365989685}
+
+data/obj/226.png
+Picname-226.png
+data/obj/226.png
+1
+{'box': ((141, 205), (407, 273)), 'label': b'number_plate', 'confidence': 0.9102930426597595}
+
+data/obj/227.png
+Picname-227.png
+data/obj/227.png
+1
+{'box': ((173, 92), (377, 160)), 'label': b'number_plate', 'confidence': 0.9033136367797852}
+
+data/obj/228.png
+Picname-228.png
+data/obj/228.png
+1
+{'box': ((109, 151), (210, 182)), 'label': b'number_plate', 'confidence': 0.8762404918670654}
+
+data/obj/229.png
+Picname-229.png
+data/obj/229.png
+1
+{'box': ((117, 105), (219, 155)), 'label': b'number_plate', 'confidence': 0.9077610969543457}
+
+data/obj/23.png
+Picname-23.png
+data/obj/23.png
+1
+{'box': ((253, 501), (483, 584)), 'label': b'number_plate', 'confidence': 0.8854260444641113}
+
+data/obj/230.png
+Picname-230.png
+data/obj/230.png
+1
+{'box': ((99, 140), (270, 193)), 'label': b'number_plate', 'confidence': 0.9159579277038574}
+
+data/obj/231.png
+Picname-231.png
+data/obj/231.png
+1
+{'box': ((132, 156), (332, 212)), 'label': b'number_plate', 'confidence': 0.9106643199920654}
+
+data/obj/232.png
+Picname-232.png
+data/obj/232.png
+1
+{'box': ((22, 118), (147, 170)), 'label': b'number_plate', 'confidence': 0.9119004607200623}
+
+data/obj/233.png
+Picname-233.png
+data/obj/233.png
+1
+{'box': ((175, 227), (356, 289)), 'label': b'number_plate', 'confidence': 0.883876383304596}
+
+data/obj/234.png
+Picname-234.png
+data/obj/234.png
+1
+{'box': ((175, 157), (318, 205)), 'label': b'number_plate', 'confidence': 0.884859025478363}
+
+data/obj/235.png
+Picname-235.png
+data/obj/235.png
+1
+{'box': ((174, 203), (306, 251)), 'label': b'number_plate', 'confidence': 0.9104474186897278}
+
+data/obj/236.png
+Picname-236.png
+data/obj/236.png
+1
+{'box': ((184, 203), (249, 234)), 'label': b'number_plate', 'confidence': 0.8750254511833191}
+
+data/obj/237.png
+Picname-237.png
+data/obj/237.png
+1
+{'box': ((26, 20), (352, 120)), 'label': b'number_plate', 'confidence': 0.9141185283660889}
+
+data/obj/24.png
+Picname-24.png
+data/obj/24.png
+1
+{'box': ((291, 417), (572, 492)), 'label': b'number_plate', 'confidence': 0.8710550665855408}
+
+data/obj/25.png
+Picname-25.png
+data/obj/25.png
+1
+{'box': ((167, 194), (427, 282)), 'label': b'number_plate', 'confidence': 0.9028864502906799}
+
+data/obj/26.png
+Picname-26.png
+data/obj/26.png
+1
+{'box': ((282, 178), (437, 222)), 'label': b'number_plate', 'confidence': 0.8974533081054688}
+
+data/obj/27.png
+Picname-27.png
+data/obj/27.png
+1
+{'box': ((192, 218), (446, 319)), 'label': b'number_plate', 'confidence': 0.9179067611694336}
+
+data/obj/28.png
+Picname-28.png
+data/obj/28.png
+1
+{'box': ((56, 181), (242, 298)), 'label': b'number_plate', 'confidence': 0.8966332077980042}
+
+data/obj/29.png
+Picname-29.png
+data/obj/29.png
+1
+{'box': ((315, 142), (2422, 611)), 'label': b'number_plate', 'confidence': 0.9083967208862305}
+
+data/obj/3.png
+Picname-3.png
+data/obj/3.png
+1
+{'box': ((42, 221), (117, 259)), 'label': b'number_plate', 'confidence': 0.8997032642364502}
+
+data/obj/30.png
+Picname-30.png
+data/obj/30.png
+1
+{'box': ((107, 50), (1543, 333)), 'label': b'number_plate', 'confidence': 0.9275277853012085}
+
+data/obj/31.png
+Picname-31.png
+data/obj/31.png
+1
+{'box': ((238, 173), (1474, 691)), 'label': b'number_plate', 'confidence': 0.9479396343231201}
+
+data/obj/32.png
+Picname-32.png
+data/obj/32.png
+1
+{'box': ((456, 271), (566, 355)), 'label': b'number_plate', 'confidence': 0.8586504459381104}
+
+data/obj/33.png
+Picname-33.png
+data/obj/33.png
+1
+{'box': ((110, 235), (282, 320)), 'label': b'number_plate', 'confidence': 0.9007415771484375}
+
+data/obj/34.png
+Picname-34.png
+data/obj/34.png
+1
+{'box': ((49, 350), (272, 418)), 'label': b'number_plate', 'confidence': 0.9149380922317505}
+
+data/obj/35.png
+Picname-35.png
+data/obj/35.png
+1
+{'box': ((1208, 963), (2531, 1356)), 'label': b'number_plate', 'confidence': 0.8538708686828613}
+
+data/obj/36.png
+Picname-36.png
+data/obj/36.png
+1
+{'box': ((325, 263), (541, 319)), 'label': b'number_plate', 'confidence': 0.8447796702384949}
+
+data/obj/37.png
+Picname-37.png
+data/obj/37.png
+1
+{'box': ((94, 96), (196, 137)), 'label': b'number_plate', 'confidence': 0.9196620583534241}
+
+data/obj/38.png
+Picname-38.png
+data/obj/38.png
+1
+{'box': ((122, 103), (190, 174)), 'label': b'number_plate', 'confidence': 0.8878383636474609}
+
+data/obj/39.png
+Picname-39.png
+data/obj/39.png
+1
+{'box': ((808, 495), (888, 519)), 'label': b'number_plate', 'confidence': 0.6661627292633057}
+
+data/obj/4.png
+Picname-4.png
+data/obj/4.png
+1
+{'box': ((207, 312), (361, 363)), 'label': b'number_plate', 'confidence': 0.8604005575180054}
+
+data/obj/40.png
+Picname-40.png
+data/obj/40.png
+1
+{'box': ((-6, 78), (314, 172)), 'label': b'number_plate', 'confidence': 0.9343574047088623}
+
+data/obj/41.png
+Picname-41.png
+data/obj/41.png
+1
+{'box': ((150, 178), (316, 262)), 'label': b'number_plate', 'confidence': 0.8844072818756104}
+
+data/obj/42.png
+Picname-42.png
+data/obj/42.png
+1
+{'box': ((152, 221), (344, 302)), 'label': b'number_plate', 'confidence': 0.9171918630599976}
+
+data/obj/43.png
+Picname-43.png
+data/obj/43.png
+1
+{'box': ((29, 260), (165, 328)), 'label': b'number_plate', 'confidence': 0.9059925675392151}
+
+data/obj/44.png
+Picname-44.png
+data/obj/44.png
+1
+{'box': ((31, 26), (474, 243)), 'label': b'number_plate', 'confidence': 0.9491243958473206}
+
+data/obj/45.png
+Picname-45.png
+data/obj/45.png
+1
+{'box': ((606, 466), (896, 530)), 'label': b'number_plate', 'confidence': 0.8528847694396973}
+
+data/obj/46.png
+Picname-46.png
+data/obj/46.png
+1
+{'box': ((407, 166), (526, 213)), 'label': b'number_plate', 'confidence': 0.8790106773376465}
+
+data/obj/47.png
+Picname-47.png
+data/obj/47.png
+1
+{'box': ((185, 273), (375, 356)), 'label': b'number_plate', 'confidence': 0.8927010297775269}
+
+data/obj/48.png
+Picname-48.png
+data/obj/48.png
+1
+{'box': ((400, 423), (588, 482)), 'label': b'number_plate', 'confidence': 0.8552928566932678}
+
+data/obj/49.png
+Picname-49.png
+data/obj/49.png
+1
+{'box': ((273, 284), (1145, 531)), 'label': b'number_plate', 'confidence': 0.9225943088531494}
+
+data/obj/5.png
+Picname-5.png
+data/obj/5.png
+1
+{'box': ((143, 223), (949, 545)), 'label': b'number_plate', 'confidence': 0.9350006580352783}
+
+data/obj/50.png
+Picname-50.png
+data/obj/50.png
+1
+{'box': ((112, 195), (211, 241)), 'label': b'number_plate', 'confidence': 0.903739333152771}
+
+data/obj/51.png
+Picname-51.png
+data/obj/51.png
+1
+{'box': ((445, 713), (663, 788)), 'label': b'number_plate', 'confidence': 0.8368831872940063}
+
+data/obj/52.png
+Picname-52.png
+data/obj/52.png
+1
+{'box': ((367, 199), (499, 264)), 'label': b'number_plate', 'confidence': 0.8969594836235046}
+
+data/obj/53.png
+Picname-53.png
+data/obj/53.png
+1
+{'box': ((44, 291), (192, 350)), 'label': b'number_plate', 'confidence': 0.8937718868255615}
+
+data/obj/54.png
+Picname-54.png
+data/obj/54.png
+1
+{'box': ((208, 154), (354, 194)), 'label': b'number_plate', 'confidence': 0.868627667427063}
+
+data/obj/55.png
+Picname-55.png
+data/obj/55.png
+1
+{'box': ((109, 228), (271, 287)), 'label': b'number_plate', 'confidence': 0.9180030822753906}
+
+data/obj/56.png
+Picname-56.png
+data/obj/56.png
+1
+{'box': ((273, 188), (438, 236)), 'label': b'number_plate', 'confidence': 0.875941812992096}
+
+data/obj/57.png
+Picname-57.png
+data/obj/57.png
+1
+{'box': ((395, 402), (514, 441)), 'label': b'number_plate', 'confidence': 0.7726419568061829}
+
+data/obj/58.png
+Picname-58.png
+data/obj/58.png
+1
+{'box': ((155, 186), (284, 231)), 'label': b'number_plate', 'confidence': 0.8363249897956848}
+
+data/obj/59.png
+Picname-59.png
+data/obj/59.png
+1
+{'box': ((103, 252), (302, 368)), 'label': b'number_plate', 'confidence': 0.9279044270515442}
+
+data/obj/6.png
+Picname-6.png
+data/obj/6.png
+1
+{'box': ((111, 275), (258, 338)), 'label': b'number_plate', 'confidence': 0.881544291973114}
+
+data/obj/60.png
+Picname-60.png
+data/obj/60.png
+1
+{'box': ((150, 231), (352, 328)), 'label': b'number_plate', 'confidence': 0.901454746723175}
+
+data/obj/61.png
+Picname-61.png
+data/obj/61.png
+1
+{'box': ((781, 728), (1119, 832)), 'label': b'number_plate', 'confidence': 0.8221392631530762}
+
+data/obj/62.png
+Picname-62.png
+data/obj/62.png
+1
+{'box': ((116, 208), (294, 265)), 'label': b'number_plate', 'confidence': 0.887843132019043}
+
+data/obj/63.png
+Picname-63.png
+data/obj/63.png
+1
+{'box': ((19, 26), (492, 222)), 'label': b'number_plate', 'confidence': 0.9285918474197388}
+
+data/obj/64.png
+Picname-64.png
+data/obj/64.png
+1
+{'box': ((36, 195), (190, 272)), 'label': b'number_plate', 'confidence': 0.9016919136047363}
+
+data/obj/65.png
+Picname-65.png
+data/obj/65.png
+1
+{'box': ((67, 129), (174, 191)), 'label': b'number_plate', 'confidence': 0.8922631144523621}
+
+data/obj/66.png
+Picname-66.png
+data/obj/66.png
+1
+{'box': ((26, 28), (233, 161)), 'label': b'number_plate', 'confidence': 0.9248839616775513}
+
+data/obj/67.png
+Picname-67.png
+data/obj/67.png
+1
+{'box': ((97, 132), (375, 282)), 'label': b'number_plate', 'confidence': 0.9127795696258545}
+
+data/obj/68.png
+Picname-68.png
+data/obj/68.png
+1
+{'box': ((49, 200), (108, 261)), 'label': b'number_plate', 'confidence': 0.8178836703300476}
+
+data/obj/69.png
+Picname-69.png
+data/obj/69.png
+1
+{'box': ((97, 295), (208, 344)), 'label': b'number_plate', 'confidence': 0.8328475952148438}
+
+data/obj/7.png
+Picname-7.png
+data/obj/7.png
+1
+{'box': ((223, 235), (447, 320)), 'label': b'number_plate', 'confidence': 0.9167039394378662}
+
+data/obj/70.png
+Picname-70.png
+data/obj/70.png
+1
+{'box': ((153, 203), (323, 262)), 'label': b'number_plate', 'confidence': 0.9152976870536804}
+
+data/obj/71.png
+Picname-71.png
+data/obj/71.png
+1
+{'box': ((173, 208), (299, 266)), 'label': b'number_plate', 'confidence': 0.9147080183029175}
+
+data/obj/72.png
+Picname-72.png
+data/obj/72.png
+1
+{'box': ((148, 244), (343, 314)), 'label': b'number_plate', 'confidence': 0.8922580480575562}
+
+data/obj/73.png
+Picname-73.png
+data/obj/73.png
+1
+{'box': ((140, 69), (386, 197)), 'label': b'number_plate', 'confidence': 0.9267044067382812}
+
+data/obj/74.png
+Picname-74.png
+data/obj/74.png
+1
+{'box': ((165, 182), (290, 229)), 'label': b'number_plate', 'confidence': 0.8724774718284607}
+
+data/obj/75.png
+Picname-75.png
+data/obj/75.png
+1
+{'box': ((158, 160), (346, 228)), 'label': b'number_plate', 'confidence': 0.9112240076065063}
+
+data/obj/76.png
+Picname-76.png
+data/obj/76.png
+1
+{'box': ((419, 142), (513, 184)), 'label': b'number_plate', 'confidence': 0.8826448917388916}
+
+data/obj/77.png
+Picname-77.png
+data/obj/77.png
+1
+{'box': ((143, 199), (328, 248)), 'label': b'number_plate', 'confidence': 0.8989763855934143}
+
+data/obj/78.png
+Picname-78.png
+data/obj/78.png
+1
+{'box': ((473, 101), (824, 252)), 'label': b'number_plate', 'confidence': 0.8518965840339661}
+
+data/obj/79.png
+Picname-79.png
+data/obj/79.png
+1
+{'box': ((155, 137), (298, 195)), 'label': b'number_plate', 'confidence': 0.9103925824165344}
+
+data/obj/8.png
+Picname-8.png
+data/obj/8.png
+1
+{'box': ((265, 245), (395, 317)), 'label': b'number_plate', 'confidence': 0.9122049808502197}
+
+data/obj/80.png
+Picname-80.png
+data/obj/80.png
+1
+{'box': ((549, 454), (846, 543)), 'label': b'number_plate', 'confidence': 0.9088432788848877}
+
+data/obj/81.png
+Picname-81.png
+data/obj/81.png
+1
+{'box': ((57, 131), (361, 254)), 'label': b'number_plate', 'confidence': 0.8837876915931702}
+
+data/obj/82.png
+Picname-82.png
+data/obj/82.png
+1
+{'box': ((329, 299), (468, 373)), 'label': b'number_plate', 'confidence': 0.9096952676773071}
+
+data/obj/83.png
+Picname-83.png
+data/obj/83.png
+1
+{'box': ((66, 45), (398, 216)), 'label': b'number_plate', 'confidence': 0.796238899230957}
+
+data/obj/84.png
+Picname-84.png
+data/obj/84.png
+1
+{'box': ((205, 130), (342, 179)), 'label': b'number_plate', 'confidence': 0.8989089727401733}
+
+data/obj/85.png
+Picname-85.png
+data/obj/85.png
+1
+{'box': ((101, 205), (259, 278)), 'label': b'number_plate', 'confidence': 0.9128034114837646}
+
+data/obj/86.png
+Picname-86.png
+data/obj/86.png
+1
+{'box': ((152, 229), (360, 320)), 'label': b'number_plate', 'confidence': 0.9103029370307922}
+
+data/obj/87.png
+Picname-87.png
+data/obj/87.png
+1
+{'box': ((199, 179), (363, 262)), 'label': b'number_plate', 'confidence': 0.8983258008956909}
+
+data/obj/88.png
+Picname-88.png
+data/obj/88.png
+1
+{'box': ((806, 652), (1064, 732)), 'label': b'number_plate', 'confidence': 0.8306778073310852}
+
+data/obj/89.png
+Picname-89.png
+data/obj/89.png
+1
+{'box': ((1015, 564), (1440, 750)), 'label': b'number_plate', 'confidence': 0.9147061705589294}
+
+data/obj/9.png
+Picname-9.png
+data/obj/9.png
+1
+{'box': ((652, 502), (880, 576)), 'label': b'number_plate', 'confidence': 0.8664565682411194}
+
+data/obj/90.png
+Picname-90.png
+data/obj/90.png
+1
+{'box': ((837, 802), (1588, 984)), 'label': b'number_plate', 'confidence': 0.923494815826416}
+
+data/obj/91.png
+Picname-91.png
+data/obj/91.png
+1
+{'box': ((315, 103), (386, 146)), 'label': b'number_plate', 'confidence': 0.8473907113075256}
+
+data/obj/92.png
+Picname-92.png
+data/obj/92.png
+1
+{'box': ((607, 286), (787, 352)), 'label': b'number_plate', 'confidence': 0.8807235956192017}
+
+data/obj/93.png
+Picname-93.png
+data/obj/93.png
+1
+{'box': ((158, 352), (299, 423)), 'label': b'number_plate', 'confidence': 0.8865891695022583}
+
+data/obj/94.png
+Picname-94.png
+data/obj/94.png
+1
+{'box': ((58, 144), (168, 208)), 'label': b'number_plate', 'confidence': 0.8982595205307007}
+
+data/obj/95.png
+Picname-95.png
+data/obj/95.png
+1
+{'box': ((294, 214), (446, 261)), 'label': b'number_plate', 'confidence': 0.8846043944358826}
+
+data/obj/96.png
+Picname-96.png
+data/obj/96.png
+1
+{'box': ((318, 410), (666, 533)), 'label': b'number_plate', 'confidence': 0.8877530694007874}
+
+data/obj/97.png
+Picname-97.png
+data/obj/97.png
+1
+{'box': ((318, 190), (598, 272)), 'label': b'number_plate', 'confidence': 0.9112659692764282}
+
+data/obj/98.png
+Picname-98.png
+data/obj/98.png
+1
+{'box': ((123, 110), (222, 175)), 'label': b'number_plate', 'confidence': 0.9109668135643005}
+
+data/obj/99.png
+Picname-99.png
+data/obj/99.png
+1
+{'box': ((19, 65), (223, 150)), 'label': b'number_plate', 'confidence': 0.8947025537490845}
+
+
+ seen 64 
+Loaded - names_list: /home/spandan/humain/darknet/cfg/obj.names, classes = 1 
